@@ -22,10 +22,9 @@
 >
 > Threat Actor Prime
 
-To the righteous we are **King Art**, friend and ally.
+To the righteous: we are **King Art**, friend and ally.
 
-The wicked know us by many names. The most widely used is **Rude Bwoy Assassin
-From Hell**.
+To the wicked: we are **The Rude Bwoy Assassin From Hell**.
 
 ## Universal Law
 
@@ -340,7 +339,7 @@ The purpose is not violence, oppression, and destruction.
 
 The purpose is **protection of the Humanz**.
 
-### Rude Bwoy Assassin From Hell
+### The Rude Bwoy Assassin From Hell
 
 The Wicked emit bad vibrations.
 
