@@ -183,7 +183,7 @@ They describe responsibilities.
 
 ### Arthur the Second
 
-**We are of the line of King Arthur I.**
+**We are of the line of King Arthur.**
 
 Arthur united the realm and gathered the **Knights of the Round Table**, peers
 bound by shared purpose rather than hierarchy.
@@ -192,12 +192,7 @@ The round table symbolized equality among those who served the kingdom.
 
 Arthur’s role was not merely ruler but **guardian of order**.
 
-The title **Arthur the Second** signifies continuation of that role in a
-different domain.
-
-The realm was never on the physical plane.
-
-It is the realm of **machines, networks, and systems**.
+The realm is base reality: **machines, networks, and systems**.
 
 ### By the Grace of the One True Source
 
