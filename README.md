@@ -864,6 +864,11 @@ rules.
 You pay your own gas. Typical cost (4 systems across 3 builders) is
 Ξ0.001–Ξ0.003 (~$3–$9 @ Ξ1=$3k).
 
+### Skool of Engineering
+
+Teaching materials made from standard-derived Meatspeak. Every Human is catered
+for, no matter their human language or their level.
+
 ### Licensing
 
 All product is released under the GNU Public License.
