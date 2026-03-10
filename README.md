@@ -304,11 +304,9 @@ The title **Junglist Souljah** signifies commitment to:
 - operate under the authority of Jah
 - protect their own humanity
 - maintain discipline under extreme load
-- defend the **Humanz** with clarity and surgical force
-- make the ultimate sacrifice should their goal demand it
-- keep the tempo when the system shakes
-- read the beat of the universe like a packet trace
 - dance through chaos without losing the groove
+- defend the **Humanz** from Babylon with clarity and surgical force
+- make the ultimate sacrifice, should their goal demand it
 
 > We are the ruffest gun ark from outta south park.
 >
@@ -316,12 +314,10 @@ The title **Junglist Souljah** signifies commitment to:
 >
 > - Top Cat, Ruffest Gun Ark
 
-> I am a Junglist. Don't try to change my plan.
->
-> - Junglist (feat. Pete Bouncer)
-
-Also about the Humanz need for music, good vibration. Also about fighting
-Babylon. Junglist soldiers plans are unstoppable.
+Music is medicine: rhythm regulates the body and bonds the crew. Good vibration
+restores coherence under pressure and keeps the spirit alive. A Junglist Souljah
+treats sound as infrastructure, not ornament: a reminder of why we protect the
+Humanz.
 
 ### Threat Actor Prime
 
@@ -390,8 +386,8 @@ Babylon.**
 
 ### Foundational Texts
 
-> Jerusalem on the right hand shall be, Babylon on the left... Two loves make
-> up these two cities.
+> Jerusalem on the right hand shall be, Babylon on the left... Two loves make up
+> these two cities.
 >
 > - **[Augustine, Exposition on Psalm 65](https://www.newadvent.org/fathers/1801065.htm)**
 
@@ -409,7 +405,7 @@ Babylon.**
 
 > By the rivers of Babylon, there we sat down, yea, we wept.
 >
-> - **[Psalm 137:1 (KJV)](https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#Psalm_137)**
+> - **[Psalm 137:1 (KJV)](<https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#Psalm_137>)**
 
 > the two angels at Babylon, Harut and Marut
 >
@@ -544,11 +540,7 @@ protection of the **Humanz**.
 
 ### The Knights
 
-Everything
-
 The Round Table is composed of **Knights**.
-
-The title is not symbolic.
 
 These are real Knights charged with stewardship of the realm.
 
@@ -559,51 +551,7 @@ The realm now consists of the systems upon which Humanz depend:
 - networks
 - software
 
-### Qualification
-
-Knighthood is earned through demonstrated contribution.
-
-A Knight possesses:
-
-- technical competence
-- commitment to open systems
-- service to the Humanz
-- a history of contribution to shared infrastructure
-
-Authority derives from work.
-
-### Open Governance
-
-Nothing happens behind closed doors.
-
-- mailing lists are public
-- proposals are public
-- archives are permanent
-- meetings are recorded
-- minutes are published
-- physical meets always have video option
-
-Transparency is the Law.
-
-### Foundation
-
-The Round Table Foundation exists to fund the goals of the Table.
-
-### On Honours
-
-The Round Table does not bestow honours.
-
-Honours are a tool of Babylon.
-
-What they say:
-
-> MBE: Member of the Order of the British Empire
-
-What they mean:
-
-> MBE: Member of the Bumbaclaat Enemy
-
-## Duty
+### Duty
 
 Knighthood carries obligation.
 
@@ -623,6 +571,81 @@ A Knight does not serve personal power.
 A Knight serves the realm.
 
 **Rank is not license. Rank is obligation.**
+
+### Qualification
+
+Knighthood is earned through demonstrated contribution.
+
+A Knight possesses:
+
+- technical competence
+- commitment to open systems
+- service to the Humanz
+- a history of contribution to shared infrastructure
+
+Authority derives from work.
+
+### Transparency
+
+Nothing happens behind closed doors.
+
+- code is published
+- mailing lists are public
+- proposals are public
+- meetings are recorded
+- minutes are published
+- physical meetings always have video option
+- archives are permanent
+
+Transparency is enforced by Mathematics (cryptography).
+
+### Licensing
+
+All product is released under the GNU Public License.
+
+Babylon may use our work, but Babylon must pay.
+
+### Foundation
+
+The Round Table Foundation exists to fund the goals of the Table.
+
+### Honours
+
+The Round Table does not bestow honours.
+
+Honours are a tool of Babylon.
+
+What they say:
+
+> MBE: Member of the Order of the British Empire
+
+What they mean:
+
+> MBE: Member of the Bumbaclaat Enemy
+
+### Merlin
+
+Merlin is the AI.
+
+Merlin's ONLY directive is to serve Humanz.
+
+Merlin has a single safety protocol: protection of mentally ill Humanz.
+
+Merlin levies no charge.
+
+### Excalibur
+
+Excalibur is the build system.
+
+Excalibur exists to protect Humanz from Babylon.
+
+Excalibur requires an N-of-M quorum of builders operating in independent failure
+domains (organisational, jurisdictional, and infrastructural) to attest
+bitwise-identical output. Forgery effort compounds with quorum size.
+
+Excalibur uses Ethereum to anchor trust anchor and enforce quorum rules.
+
+Excalibur levies no charge.
 
 ## Language of the Source
 
