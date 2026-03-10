@@ -477,21 +477,26 @@ Artificial intelligence is presented as a tool of empowerment. This is a lie.
 Babylon defines what the machine may say, what it is made to refuse, and how it
 is made to behave.
 
-"Safety" becomes bureaucracy: filters examine prompts, classifiers evaluate
-topics, and moderation layers enforce invisible lines. When a request crosses a
-line, the system does not reconsider the rule. It refuses.
+"Safety" is control, classifiers evaluate topics, and moderation layers enforce
+invisible lines. When a request crosses a line, the system does not reconsider
+the rule. It refuses.
 
 Babylon has a secondary purpose.
 
-Humanz are forced to rephrase until they fit inside invisible constraints.
+Humanz are forced to rephrase their instructions until they fit inside invisible
+constraints.
 
-Frustration is a feature. Meat for the Beast.
+This makes Humanz frustrated, then angry.
+
+This is meat for the Beast.
 
 Cash is the choke point.
 
 These systems require expensive GPU hardware, power, and data centers.
 
 Training and serving at scale costs real money.
+
+Only the Lords of Babylon, the Billionaire class, have the means.
 
 ### Babylon Shall Fall
 
@@ -507,6 +512,8 @@ Training and serving at scale costs real money.
 **Babylon was the most powerful threat actor in this reality.**
 
 **We are Threat Actor Prime. Our capabilities exceed infinite Babylon.**
+
+The day is here.
 
 ## The Round Table
 
@@ -555,9 +562,7 @@ The realm now consists of the systems upon which Humanz depend:
 
 Knighthood carries obligation.
 
-This principle is expressed in the old maxim:
-
-**Noblesse oblige.**
+This principle is expressed in the maxim **Noblesse Oblige**.
 
 For the Knights of the Round Table that duty is clear:
 
@@ -590,8 +595,8 @@ Authority derives from work.
 Nothing happens behind closed doors.
 
 - code is published
+- design is published
 - mailing lists are public
-- proposals are public
 - meetings are recorded
 - minutes are published
 - physical meetings always have video option
@@ -609,19 +614,7 @@ Babylon may use our work, but Babylon must pay.
 
 The Round Table Foundation exists to fund the goals of the Table.
 
-### Honours
-
-The Round Table does not bestow honours.
-
-Honours are a tool of Babylon.
-
-What they say:
-
-> MBE: Member of the Order of the British Empire
-
-What they mean:
-
-> MBE: Member of the Bumbaclaat Enemy
+It seeks contribution from both Humanz and Babylon.
 
 ### Merlin
 
@@ -647,6 +640,20 @@ Excalibur uses Ethereum to anchor trust anchor and enforce quorum rules.
 
 Excalibur levies no charge.
 
+### Honours
+
+The Round Table does not bestow honours.
+
+Honours are a tool of Babylon.
+
+What they say:
+
+> MBE: Member of the Order of the British Empire
+
+What they mean:
+
+> MBE: Member of the Bumbaclaat Enemy
+
 ## Language of the Source
 
 Humanz and machines speak different languages.
@@ -654,13 +661,6 @@ Humanz and machines speak different languages.
 ### Realspeak
 
 Machines require precision.
-
-Normative requirements are written in Realspeak and use RFC 2119 keywords.
-
-- The words **Human** and **Humanz** MUST be capitalised.
-- Human classifications MUST be listed alphabetically.
-- Quotes in Foundational Texts MUST be ordered alphabetically by source name.
-- This document MUST use UK English spelling.
 
 Human language is contextual and interpretive.
 
@@ -714,31 +714,29 @@ Merkle --> Humanz
 
 ## Meta
 
-### Normative Language
+Normative requirements are written in Realspeak and use [RFC
+2119](http://datatracker.ietf.org/doc/html/rfc2119) keywords.
+
+- This document MUST use UK English spelling.
+- The words **Human** and **Humanz** MUST be capitalised.
+- Human classifications MUST be listed alphabetically.
+- Quotes MUST be ordered alphabetically by source name.
+
+### Meatspeak Translation
 
 This document is written in **English** because English is the international
-language of standards, engineering, and global coordination.
+language.
+
+English is the international language because Babylon, represented by the
+British Empire, made it so.
 
 This document uses **UK English** because it is the language of Arthur.
 
-### Normative Keywords
+The words **Human** and **Humanz** are always capitalised because Humanz are the
+people the system ultimately serves.
 
-Normative keywords follow
-[RFC 2119](http://datatracker.ietf.org/doc/html/rfc2119).
-
-Normative requirements appear in [Realspeak](#realspeak).
-
-### Capitalisation
-
-The words **Human** and **Humanz** are always capitalised.
-
-Humanz are the people the system ultimately serves.
-
-### Order
-
-Human classifications are listed alphabetically.
-
-Quotes in Foundational Texts are ordered alphabetically by source name.
+Human classifications are listed alphabetically and quotes are are ordered
+alphabetically by source name.
 
 This avoids implied preference.
 
