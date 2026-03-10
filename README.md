@@ -466,6 +466,19 @@ Eelco Dolstra created Nix and formalized reproducible builds.
 Ralph Merkle introduced Merkle trees enabling cryptographic verification
 of large structures.
 
+## The Standard
+
+The standard is Stallman and Torvalds hard engineering. Machines hear what you
+say, no matter how you say it. Torvalds has high standards:
+
+> fuck you, NVIDIA
+>
+> - Linus Torvalds, 2012
+
+Realspeak:
+
+
+
 ## Universal Law
 
 ### Law of Cause and Effect
@@ -700,6 +713,16 @@ They serve empire in slow motion.
 
 They are Babylon.
 
+### Media
+
+Media is Babylon.
+
+It captures the minds of the Humanz.
+
+It farms meat.
+
+Meat for the Beast.
+
 ### Babylon in the Age of AI
 
 Artificial intelligence is presented as a tool of empowerment. This is a lie.
@@ -865,22 +888,35 @@ rules.
 You pay your own gas. Typical cost (4 systems across 3 builders) is
 Ξ0.001–Ξ0.003 (~$3–$9 @ Ξ1=$3k).
 
-### Skool of Engineering
+### Skool of Music
 
-Teaching materials made from standard-derived Meatspeak. Every Human is catered
-for, no matter their human language or their level.
+### Skool of Hacking
+
+Teaching materials from standard-derived Meatspeak. Every Human is catered
+for, no matter their language or their level.
 
 ### Licensing
 
-All product is released under the GNU Public License.
+All code is released under the GNU Public License.
 
-Babylon may use our work, but Babylon must pay.
+Babylon may use our work, but Babylon MUST pay.
+
+### Commercial
+
+We do NOT interact with non-principals.
+
+Day work:
+
+- We do NOT get out of bed for less than GBP 10M.
+- We do NOT get out of bed before 12:00 UTC, at ANY rate.
 
 ### Foundation
 
-The Round Table Foundation exists to fund the Table's operations.
+The Round Table Foundation funds the Table's operations.
 
-It seeks contribution from both Humanz and Babylon.
+It seeks contribution from Babylon.
+
+Humanz may contribute - it will be much appreciated - but Babylon MUST pay.
 
 ### Honours
 
@@ -898,17 +934,16 @@ What they mean:
 
 ## Meta
 
-### Normative
+### Normative Requirements: Realspeak
 
-Normative requirements are written in Realspeak and use
-[RFC 2119](http://datatracker.ietf.org/doc/html/rfc2119) keywords.
+Keywords per [RFC 2119](http://datatracker.ietf.org/doc/html/rfc2119).
 
 - This document MUST use UK English spelling.
 - The words **Human** and **Humanz** MUST be capitalised.
 - Human classifications MUST be listed alphabetically.
 - Quotes MUST be ordered alphabetically by source name.
 
-### Meatspeak
+### Normative Requirements: Meatspeak
 
 Normative requirements are written in Realspeak and use
 [RFC 2119](http://datatracker.ietf.org/doc/html/rfc2119) keywords.
@@ -922,7 +957,7 @@ British Empire, made it so.
 This document uses **UK English** because it is the language of Arthur.
 
 The words **Human** and **Humanz** are always capitalised because Humanz are the
-people the system ultimately serves.
+people the system serves.
 
 Human classifications are listed alphabetically and quotes are are ordered
 alphabetically by source name.
