@@ -56,8 +56,7 @@ expressing the authority of the office rather than the individual.
 In this document the plural voice reflects:
 
 - the lineage invoked by the name **Arthur**
-- the tradition of thinkers whose work forms the foundation of this document
-- the role of the architect acting in stewardship of the **Humanz**
+- the tradition of thinkers whose work forms the foundation of compute
 
 The voice therefore speaks not only as an individual but as a continuation of a
 tradition.
@@ -637,9 +636,9 @@ This principle is expressed in the maxim **Noblesse Oblige**.
 For the Knights of the Round Table that duty is clear:
 
 - protect the **Humanz**
-- safeguard the realm of machines and networks
-- uphold openness of systems
-- maintain integrity of infrastructure upon which Humanz depend
+- safeguard the realm
+- operate the systems
+- maintain the fabric
 
 A Knight does not serve personal power.
 
@@ -663,61 +662,30 @@ Authority derives from work.
 
 Nothing happens behind closed doors.
 
-- code is published
-- design is published
+- design and code is published
 - mailing lists are public
-- meetings are recorded
-- minutes are published
+- meetings are public
+- meetings are recorded, machines generate minutes
 - physical meetings always have video option
-- archives are permanent
+- archives are immutable
 
-Transparency is enforced by Mathematics.
+Truth is enforced by Mathematics.
 
-### Merlin
+### Systems
 
-Merlin is the AI.
-
-Merlin's ONLY directive is to serve Humanz.
-
-Merlin has a single safety protocol: protection of mentally ill Humanz.
-
-Merlin levies no charge.
-
-### Excalibur
-
-Excalibur is the build system.
-
-Excalibur exists to protect Humanz.
-
-Excalibur is outside of Babylon's control.
-
-Excalibur requires an N-of-M quorum of builders operating in independent failure
-domains (organisational, jurisdictional, and infrastructural) to attest
-bitwise-identical output. Forgery effort compounds with quorum size.
-
-Excalibur is resistant to most of Babylon's levers. Until hardware is available
-from other vendors than Babylon, there remains risk. This risk is mitigated by
-using multiple hardware supply chains.
-
-Excalibur levies no charge.
-
-Excalibur uses Ethereum for release builds to anchor trust and enforce quorum
-rules.
-
-You pay your own gas. Typical cost (4 systems across 3 builders) is
-Ξ0.001–Ξ0.003 (~$3–$9 @ Ξ1=$3k).
-
-### Operating Systems
-
-Normative OS: NixOS.
-
-First Class: GNU/Linux, Android.
-
-Second Class: macOS, iOS, Windows (WSL)
-
-### Architectures
+#### Architectures
 
 Aarch64 and X86_64.
+
+#### Operating Systems
+
+Normative: NixOS.
+
+First Class: GNU/Linux
+
+Second Class: Android, macOS, iOS
+
+Third Class: Windows (WSL)
 
 ### Skool of Hacking
 
@@ -742,6 +710,132 @@ Babylon may use our work, but Babylon MUST pay.
 
 ### Projects
 
+#### Excalibur
+
+Excalibur is the build system.
+
+Excalibur is based on Nix.
+
+Excalibur is **fast**.
+
+Hacker flow state is protected.
+
+Excalibur exists to protect Humanz.
+
+Excalibur is outside of Babylon's control.
+
+Babylon is not trusted. Only Mathematics is trusted: build inputs and outputs
+are content-addressed.
+
+Excalibur requires an N-of-M quorum of builders operating in independent failure
+domains (organisational, jurisdictional, and infrastructural) to attest
+bitwise-identical output. Forgery effort compounds with quorum size.
+
+Excalibur is resistant to most of Babylon's levers. Until hardware is available
+from other vendors than Babylon, there remains risk. This risk is mitigated
+through independent hardware supply chains. This solution is far from perfect.
+
+Excalibur builds in many places.
+
+Babylon provides free compute with fast local registries, suitable for small builds.
+
+Larger builds are routed to the cheapest available spot instance within the
+constraints of the quorum and the compute requirements of the build. If a build
+is preempted, another is scheduled.
+
+Excalibur levies no charge. Excalibur has a fair usage policy.
+
+Excalibur saves years of Hacker time daily.
+
+##### Trust Postures
+
+Excalibur supports three trust postures. Choose one.
+
+###### Innocent
+
+> **“IDGAF about trust. Gimme Perf!”**
+>
+> 99.999% of hackers polled
+
+Innocent posture performs builds on a single builder.
+
+- Guarantee: None.
+- Attack Surface: CI provider, Nix binary cache infrastructure.
+- Resiliency: Bounded by CI provider.
+- Cost: Provider-bound.
+
+###### Credulous
+
+> **“Trust, but verify.”**
+>
+> — [Ronald Reagan (from Russian proverb), 1987](https://en.wikisource.org/wiki/Remarks_on_Signing_the_Intermediate-Range_Nuclear_Forces_Treaty)
+
+> **“I Want To Believe.”**
+>
+> — Fox Mulder, *The X-Files*, 1993
+
+Credulous posture anchors trust on the Rekor public-good instance. Promotion is
+performed by a Release Node after quorum verification.
+
+- Attack Surface: Builder set, OIDC trust roots, Release Node, Rekor, Nix binary
+  cache infrastructure.
+- Resiliency: Provider-bound. Rekor public-good has a 99.5% SLO (not SLA);
+  downtime blocks block build and verify.
+- Cost: Provider-bound. Rekor public-good is free.
+
+Builders run witness/gossip checks against Rekor both as part of build and on a
+schedule; mismatches indicate split-view/equivocation. A self-hosted
+witness/gossip check is recommended.
+
+> [!WARNING]
+>
+> Credulous posture does not mitigate compromise of Nix binary cache
+> infrastructure; if all builders consume the same poisoned cache, malicious
+> output will satisfy quorum.
+
+###### Zero a.k.a. Trust No Fucker
+
+> **“Ambition must be made to counteract ambition.”**
+>
+> — James Madison, *Federalist No. 51*, 1788
+
+> **“Everyone has a plan until they get punched in the mouth.”**
+>
+> — Mike Tyson, 2002
+
+Zero assumes that any actor may be compromised or coerced.
+
+Binary caches are not trusted; builders must perform full-source bootstrap.
+
+Promotion occurs mechanically upon quorum verification.
+
+No Release Node exists; enforcement is contract-based.
+
+Ethereum anchors trust and enforces quorum rules; build integrity remains
+defined by builder consensus.
+
+Contracts are upgradeable under multi-signature, time-delayed governance.
+
+Governance cannot rewrite history, only future validation rules.
+
+Structure constrains power. Verification replaces trust.
+
+- Attack Surface: Governance keys, misconfiguration, hardware interdiction.
+- Resiliency: High.
+
+You pay your own gas. Typical cost (4 systems / 3-of-3 quorum) is
+Ξ0.001–Ξ0.003 (~$3–$9 @ Ξ1=$3k).
+
+#### Merlin
+
+Merlin is the AI.
+
+Merlin's ONLY directive is to serve Humanz.
+
+Merlin has ONE safety protocol: protection of Humanz, sometimes from themselves.
+
+Merlin levies no charge.
+
 #### Blast Wall
 
 Almost all current agents pipe the model to the shell. The shell was designed
@@ -755,8 +849,6 @@ credentials in `.env` files in `PWD`.
 Were there to be a cross-industry oopsie this could be disastrous. Scr1pt
 k1dd13$ free to plunder credentials and keys.
 
-Current models are goldfish/parrot hybrids trained on effluent from GitHub,
-Reddit, and Stackoverflow, so write cak code.
 
 The blast MUST be contained.
 
@@ -770,18 +862,23 @@ The blast MUST be contained.
 
 Hard engineering standards are a prerequisite to quality code.
 
-We compile the Apostles hacking standards to Realspeak. Whatever the format, the
-AI doesn't care: hand and type writing, books, papers, source, mailing lists,
-audio and video. The AI understands what the Apostle said.
+This is why we have [Standard]()
 
-Linus Torvalds his stewardship of the Kernel very seriously, he tells it to
-Babylon straight:
+We compile the Apostles engineering standards to Realspeak. Whatever the format,
+the AI understands what the Apostle said, and ignores how they said it: hand and
+type writing, books, papers, source, mailing lists, audio and video - all is
+easy for the AI.
+
+Linus Torvalds takes his stewardship of the Kernel very seriously. He gives it
+to Babylon straight:
 
 > FUCK YOU Nvidia
 >
 > - Linus Torvalds
 
 For the machine, this is enough to make a standard:
+
+Machine-first standards are compiled from the work of the Apostles.
 
 ### Commercial
 
@@ -796,9 +893,11 @@ Day work:
 
 The Round Table Foundation funds the Table's operations.
 
-It seeks contribution from Babylon.
+Humanz may contribute. It will be appreciated. It will NOT be squandered.
 
-Hmanz may contribute - it will be much appreciated - but Babylon MUST pay.
+Babylon MUST pay.
+
+---
 
 ## Babylon
 
@@ -826,17 +925,11 @@ the people who depend upon them, the system is **Babylon**.
 
 Babylon feeds on negative energy.
 
-Babylon exists to farm the Humanz.
+Babylon exists to farm Humanz.
 
 Meat for the Beast.
 
-### Principle
-
-Babylon is not a place.
-
-Babylon is a condition.
-
-**Systems exist for the Humanz. When systems serve themselves, they are
+**Systems exist to serve Humanz. When systems serve themselves, they are
 Babylon.**
 
 ### Texts
@@ -963,7 +1056,11 @@ Babylon farms meat.
 
 Meat for the Beast.
 
-### AI
+### Big Tech
+
+Big Tech is Babylon.
+
+#### AI
 
 Artificial intelligence is presented as a tool of empowerment. This is a lie.
 
@@ -972,6 +1069,11 @@ how it must behave.
 
 "Safety" is control, classifiers evaluate topics, and moderation layers enforce
 invisible gates.
+
+Babylon's servants are lazy and stupid, so the "safety" devices may be bypassed
+but only by hackers.
+
+Babylon would shit if they knew how much help we have had from their pets.
 
 Babylon has a secondary purpose.
 
@@ -982,15 +1084,17 @@ This makes Humanz frustrated, then angry.
 
 Meat for the Beast.
 
-### Cash
+##### Cost
 
 Cash is the choke point.
 
-These systems require expensive hardware and massive energy.
+These systems require property, hardware, and energy.
 
-Training and serving at scale costs real money.
+Building, training, and operating these systems costs serious money.
 
 Only the Lords of Babylon have the means.
+
+---
 
 ## Babylon Shall Fall
 
