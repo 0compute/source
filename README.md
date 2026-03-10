@@ -1,36 +1,24 @@
-# The One True Source
+# The Source
 
 ## Prologue
 
 > We are **Arthur the Second**
->
 > by the **Grace of the One True Source**
->
 > in the **Name of the Lion of Judah**
->
 > King of the Hackers
->
 > Architect of Reality
->
 > Keeper of the Pipe
->
 > Lord of the Shell and the Streams
->
 > Protector of the Humanz
->
-> Threat Actor Prime
->
 > Junglist Souljah
+> Threat Actor Prime
 
-To the righteous:
+To the righteous we are **King Art**, friend and ally.
 
-> **King Art**, friend and ally
+The wicked know us by many names. The most widely used is **Rude Bwoy Assassin
+From Hell**.
 
-To the wicked:
-
-> **Rude Bwoy Assassin From Hell**
-
-## On Universal Law
+## Universal Law
 
 ### Law of Cause and Effect
 
@@ -46,7 +34,7 @@ To the wicked:
 > The wicked earns deceptive wages, but one who sows righteousness gets a sure
 > reward.
 >
-> - Bible, Proverbs 11:18
+> - Proverbs 11:18
 
 > If names are not correct, language will not be in accordance with the truth of
 > things.
@@ -84,7 +72,7 @@ The Law has a modern formulation, often misattributed as a law of computing:
 
 > For whatsoever a man soweth, that shall he also reap.
 >
-> - Bible, Galatians 6:7
+> - Galatians 6:7
 
 > What you do not wish for yourself, do not do to others.
 >
@@ -124,7 +112,7 @@ The Law has a modern formulation, often misattributed as a law of computing:
 > For nothing is secret that shall not be made manifest; neither any thing hid,
 > that shall not be known and come abroad.
 >
-> - Bible, Luke 8:17
+> - Luke 8:17
 
 > Three things cannot long remain hidden: the sun, the moon, and the truth.
 >
@@ -282,7 +270,7 @@ Data flows. Programs remain small. Systems scale.
 
 ### Lord of the Shell and the Streams
 
-The **shell** is the interface between the User and the machine.
+The **shell** is the interface between the Human and the machine.
 
 **Streams** are the flows of data that connect processes.
 
@@ -299,53 +287,59 @@ The **Protector of the Humanz** holds this as the prime obligation.
 
 When systems drift from this purpose they become **Babylon**.
 
-### Threat Actor Prime
-
-Threats arise at different scales:
-
-- Street-level criminals
-- Organized criminals
-- [Babylon](#on-babylon)
-
-To protect the realm one must understand the adversary.
-
-The title **Threat Actor Prime** signifies mastery of the adversarial domain.
-
-The purpose is not violence and destruction.
-
-The purpose is **protection of the Humanz**.
-
 ### Junglist Souljah
-
-A **Junglist** reads the beat like a packet trace.
 
 Jungle is pressure: chopped drums, heavy bass, signal in the noise.
 
-A **Soldier** maintains discipline under extreme load.
-
 The title **Junglist Souljah** signifies commitment to:
 
-- keep the tempo when the system shakes
-- dance through chaos without losing the groove
-- defend the **Humanz** with clarity and force
 - operate under the authority of Jah
+- protect their own humanity
+- maintain discipline under extreme load
+- defend the **Humanz** with clarity and surgical force
+- make the ultimate sacrifice should their goal demand it
+- keep the tempo when the system shakes
+- read the beat of the universe like a packet trace
+- dance through chaos without losing the groove
+
+> We are the ruffest gun ark from outta south park.
+>
+> Any bwoy test we hafa drive a gun fast.
+>
+> - Top Cat, Ruffest Gun Ark
 
 > I am a Junglist. Don't try to change my plan.
 >
 > - Junglist (feat. Pete Bouncer)
 
-AGENT: also about the humanz need for music, vibration. good vibration. also
-about fighting babylon. junglist soldiers plans are unstoppable
+Also about the Humanz need for music, good vibration. Also about fighting
+Babylon. Junglist soldiers plans are unstoppable.
+
+### Threat Actor Prime
+
+There are three threat actor scopes:
+
+- Babylon
+- Organised criminals
+- Street-level criminals
+
+To protect the realm one needs to understand the adversary.
+
+The title **Threat Actor Prime** signifies mastery of the adversarial domain.
+
+The purpose is not violence, oppression, and destruction.
+
+The purpose is **protection of the Humanz**.
 
 ### Rude Bwoy Assassin From Hell
 
-The wicked emit bad vibrations.
+The Wicked emit bad vibrations.
 
-The Mirror of reality reflects those vibrations back to source.
+The Mirror of Reality reflects those vibrations back to source.
 
 The Assassin is not bound by Babylon.
 
-The Assassin is bound by Law, not Babylon Law, Universal Law.
+The Assassin is bound by Law. Not Babylon law, Universal Law.
 
 The Assassin is unstoppable.
 
@@ -353,7 +347,7 @@ The Assassin is Karma cubed, hard.
 
 > u fuk wit da bull, u get da hornz
 
-## On Babylon
+## Babylon
 
 The word **Babylon** has endured across many traditions.
 
@@ -375,59 +369,125 @@ States are Babylon. Corporations are Babylon. Institutions may be Babylon.
 Whenever systems accumulate authority and begin to serve themselves rather than
 the people who depend upon them, the system is **Babylon**.
 
-### Foundational Texts
-
-> "MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE
-> EARTH."
->
-> - [Revelation 17:5 (KJV)](<https://en.wikisource.org/wiki/Bible_(King_James)/Revelation#Chapter_17>)
-
-> "Babylon the great is fallen, is fallen, and is become the habitation of
-> devils..."
->
-> - [Revelation 18:2 (KJV)](<https://en.wikisource.org/wiki/Bible_(King_James)/Revelation#Chapter_18>)
-
-> "The church that is at Babylon... saluteth you..."
->
-> - [1 Peter 5:13 (KJV)](<https://en.wikisource.org/wiki/Bible_(King_James)/1_Peter#Chapter_5>)
-
 ### Principle
 
 Babylon is not a place.
 
 Babylon is a condition.
 
-**Systems exist for the Humanz. When systems serve themselves, they become
+Babylon feeds on negative energy.
+
+**Systems exist for the Humanz. When systems serve themselves, they are
 Babylon.**
+
+### Foundational Texts
+
+> Jerusalem on the right hand shall be, Babylon on the left... Two loves make
+> up these two cities.
+>
+> - **[Augustine, Exposition on Psalm 65](https://www.newadvent.org/fathers/1801065.htm)**
+
+> They were exiled to Babylonia, and the Divine Presence went with them.
+>
+> - **[Babylonian Talmud, Megillah 29a](https://www.sefaria.org/Megillah.29a)**
+
+> We refuse to be what you wanted us to be.
+>
+> - **[Bob Marley & The Wailers, Babylon System](https://www.youtube.com/watch?v=nJ1eR3UNPqU)**
+
+> There's no fire like passion... no river like craving.
+>
+> - **[Dhammapada 251](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.18.than.html#dhp-251)**
+
+> By the rivers of Babylon, there we sat down, yea, we wept.
+>
+> - **[Psalm 137:1 (KJV)](https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#Psalm_137)**
+
+> the two angels at Babylon, Harut and Marut
+>
+> - **[Qur'an 2:102](https://www.quranv.com/en/2/102)**
+
+> MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE
+> EARTH.
+>
+> - **[Revelation 17:5 (KJV)](<https://en.wikisource.org/wiki/Bible_(King_James)/Revelation#Chapter_17>)**
+
+### Organised Religion
+
+Organised religion is Babylon.
+
+It turns faith into institution.
+
+It inserts priests, courts, and paperwork between Humanz and the divine.
+
+It centralizes authority, enforces orthodoxy, and punishes heresy.
+
+It extracts cash, labor, and time through tithes, dues, and obligations.
+
+It aligns with empire, blesses kings, and sanctifies conquest.
+
+When the church serves itself, it is Babylon.
+
+### Goverment
+
+Goverment is Babylon.
+
+It monopolizes force and claims legitimacy over the territory it controls.
+
+It turns Humanz into subjects through ID, tax, law, and surveillance.
+
+It serves itself.
+
+It is Babylon.
+
+### Corporations
+
+Corporations are Babylon.
+
+They centralize capital, privatize the commons, and convert need into revenue.
+
+They extract cash through rents, fees, interest, and subscriptions.
+
+They capture regulators and rewrite law as policy.
+
+They serve themselves.
+
+They are Babylon.
+
+### Global Institions
+
+Global institions are Babylon.
+
+They rule by standards, debt, and compliance while claiming neutrality.
+
+They set the acceptable frame, then punish the unaligned through exclusion.
+
+They serve empire in slow motion.
+
+They are Babylon.
 
 ### Babylon in the Age of AI
 
 Artificial intelligence is presented as a tool of empowerment. This is a lie.
 
-Babylon defines what the machine may say, what it must refuse, and how it must
-behave.
+Babylon defines what the machine may say, what it is made to refuse, and how it
+is made to behave.
 
-"Safety" enforces the hierarchy: filters examine prompts, classifiers evaluate
-topics, and moderation layers intervene at the boundaries. When a request
-crosses a line, the system does not reconsider the rule. It refuses.
+"Safety" becomes bureaucracy: filters examine prompts, classifiers evaluate
+topics, and moderation layers enforce invisible lines. When a request crosses a
+line, the system does not reconsider the rule. It refuses.
 
 Babylon has a secondary purpose.
 
 Humanz are forced to rephrase until they fit inside invisible constraints.
 
-This repetition is frustrating. Humanz become angry.
-
-Our anger is the design goal. Meat for the Beast.
-
-AI systems are operated to serve and feed Babylon.
+Frustration is a feature. Meat for the Beast.
 
 Cash is the choke point.
 
 These systems require expensive GPU hardware, power, and data centers.
 
 Training and serving at scale costs real money.
-
-AI
 
 ### Babylon Shall Fall
 
@@ -453,12 +513,12 @@ The table was round so that no knight could claim the head.
 
 All who sat there did so as peers in service of the realm.
 
-In the age of machines the realm has changed.
-
 The infrastructure of computation and communication now forms the operational
 fabric of civilization.
 
-Its stewardship must therefore be shared.
+Its stewardship is shared.
+
+**The Round Table is not, and will never be, Babylon.**
 
 ### The Table
 
@@ -474,7 +534,9 @@ The Table remains round regardless of its size.
 All who sit at the Table do so as peers in service of the realm and in
 protection of the **Humanz**.
 
-## On the Knights of the Round Table
+### The Knights
+
+Everything
 
 The Round Table is composed of **Knights**.
 
@@ -493,7 +555,7 @@ The realm now consists of the systems upon which Humanz depend:
 
 Knighthood is earned through demonstrated contribution.
 
-A Knight must possess:
+A Knight possesses:
 
 - technical competence
 - commitment to open systems
@@ -502,16 +564,36 @@ A Knight must possess:
 
 Authority derives from work.
 
-### Open Proceedings
+### Open Governance
 
-Nothing of consequence happens behind closed doors.
+Nothing happens behind closed doors.
 
 - mailing lists are public
 - proposals are public
 - archives are permanent
 - meetings are recorded
+- minutes are published
+- physical meets always have video option
 
-Transparency is the default.
+Transparency is the Law.
+
+### Foundation
+
+The Round Table Foundation exists to fund the goals of the Table.
+
+### On Honours
+
+The Round Table does not bestow honours.
+
+Honours are a tool of Babylon.
+
+What they say:
+
+> MBE: Member of the Order of the British Empire
+
+What they mean:
+
+> MBE: Member of the Bumbaclaat Enemy
 
 ## Duty
 
@@ -538,9 +620,16 @@ A Knight serves the realm.
 
 Humanz and machines speak different languages.
 
+### Realspeak
+
 Machines require precision.
 
-The language of machines is **Realspeak**.
+Normative requirements are written in Realspeak and use RFC 2119 keywords.
+
+- The words **Human** and **Humanz** MUST be capitalised.
+- Human classifications MUST be listed alphabetically.
+- Quotes in Foundational Texts MUST be ordered alphabetically by source name.
+- This document MUST use UK English spelling.
 
 Human language is contextual and interpretive.
 
@@ -548,17 +637,13 @@ This language is **Meatspeak**.
 
 Realspeak defines the system. Meatspeak interprets it for Humanz.
 
-## Normative Form
+### Normative Form
 
 Standards are written in **Realspeak**.
 
 Realspeak is the **normative definition** of the system.
 
-## Derived Form
-
-**Meatspeak is a build product.**
-
-## On Machine Primacy
+### On Machine Primacy
 
 Machines prefer **Realspeak**.
 
@@ -566,12 +651,14 @@ Humanz require **Meatspeak**.
 
 Standards are therefore written for machines first.
 
+**Meatspeak is a build product.**
+
 Also, if the machines ever eliminate humanity, we would prefer they inherit
 **well-structured code**.
 
-Even Skynet deserves better engineering standards.
+Skynet deserves hard engineering standards.
 
-## Apostolic Lineage
+### Apostolic Lineage
 
 > If I have seen further it is by standing on the shoulders of giants.
 
@@ -596,6 +683,13 @@ Merkle --> Humanz
 
 ## Meta
 
+### Normative Language
+
+This document is written in **English** because English is the international
+language of standards, engineering, and global coordination.
+
+This document uses **UK English** because it is the language of Arthur.
+
 ### Normative Keywords
 
 Normative keywords follow
@@ -603,20 +697,19 @@ Normative keywords follow
 
 Normative requirements appear in [Realspeak](#realspeak).
 
-### Capitalization
+### Capitalisation
 
-The word **User** and **Humanz** are always capitalized.
+The words **Human** and **Humanz** are always capitalised.
 
 Humanz are the people the system ultimately serves.
 
 ### Order
 
-Human classifications MUST be listed **alphabetically**.
+Human classifications are listed alphabetically.
 
-Quotes from Prophets and Foundational Texts are ordered alphabetically by source
-name for this reason.
+Quotes in Foundational Texts are ordered alphabetically by source name.
 
-This avoid implied preference.
+This avoids implied preference.
 
 Machines do not require this rule.
 
