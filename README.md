@@ -155,7 +155,7 @@ unpredictable.
 
 Machines exist to serve Humanz.
 
-## Voice of “We”
+## the Voice of “We”
 
 This document speaks in the plural.
 
@@ -171,7 +171,7 @@ In this document the plural voice reflects:
 The voice therefore speaks not only as an individual but as a continuation of a
 tradition.
 
-## Titles
+## the Titles
 
 The titles declared in the Prologue are not ornamental.
 
