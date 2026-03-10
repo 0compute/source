@@ -135,7 +135,7 @@ The Law has a modern formulation, often misattributed as a law of computing:
 >
 > - Qur'an 17:81
 
-## On *Humanz*
+## Humanz
 
 This document refers to humans as **Humanz**.
 
@@ -155,7 +155,7 @@ unpredictable.
 
 Machines exist to serve Humanz.
 
-## On the Voice of “We”
+## Voice of “We”
 
 This document speaks in the plural.
 
@@ -171,7 +171,7 @@ In this document the plural voice reflects:
 The voice therefore speaks not only as an individual but as a continuation of a
 tradition.
 
-## On the Titles of the Prologue
+## Titles
 
 The titles declared in the Prologue are not ornamental.
 
@@ -183,8 +183,6 @@ They describe responsibilities.
 
 Arthur united the realm and gathered the **Knights of the Round Table**, peers
 bound by shared purpose rather than hierarchy.
-
-The round table symbolized equality among those who served the kingdom.
 
 Arthur’s role was not merely ruler but **guardian of order**.
 
@@ -201,20 +199,17 @@ The **Source** represents the underlying structure of systems:
 - information
 - machines
 
-Authority therefore arises not from institution or popularity but from
-understanding.
+Authority arises not from institution or popularity but from understanding.
 
 ### In the Name of the Lion of Judah
 
 Within Rastafari tradition **Haile Selassie I**, Emperor of Ethiopia, is honored
-as:
-
-**King of Kings** **Lord of Lords** **Conquering Lion of the Tribe of Judah**
+as: **King of Kings, Lord of Lords, Conquering Lion of the Tribe of Judah**
 
 The Lion of Judah symbolizes rightful authority exercised in protection of the
 people.
 
-Babylon represents authority detached from responsibility.
+Babylon represents authority that serves itself.
 
 Systems that serve the **Humanz** stand opposed to Babylon.
 
@@ -235,7 +230,7 @@ This confusion obscures an important distinction:
 - **hacking** is a skill
 - **intrusion** is a crime
 
-In this document **Hacker** retains its original meaning.
+In this document **Hacker** retains its real meaning.
 
 A Hacker is:
 
@@ -249,11 +244,11 @@ Hackers build.
 
 That they are capable of intrusion is a implicit in their craft.
 
-Hackers may also be criminals.
+Hackers, as Humanz, may also be criminals.
 
 ### Architect of Reality
 
-Modern systems shape how reality is experienced.
+Systems shape how reality is experienced.
 
 Infrastructure and software determine:
 
@@ -430,11 +425,13 @@ It extracts cash, labor, and time through tithes, dues, and obligations.
 
 It aligns with empire, blesses kings, and sanctifies conquest.
 
-When the church serves itself, it is Babylon.
+It serves itself.
 
-### Goverment
+It is Babylon.
 
-Goverment is Babylon.
+### Government
+
+Government is Babylon.
 
 It monopolizes force and claims legitimacy over the territory it controls.
 
@@ -458,9 +455,9 @@ They serve themselves.
 
 They are Babylon.
 
-### Global Institions
+### Global Institutions
 
-Global institions are Babylon.
+Global institutions are Babylon.
 
 They rule by standards, debt, and compliance while claiming neutrality.
 
@@ -515,7 +512,7 @@ Only the Lords of Babylon, the Billionaire class, have the means.
 
 The day is here.
 
-## The Round Table
+## Round Table
 
 Arthur gathered the **Knights of the Round Table** so that no seat stood above
 another.
@@ -549,9 +546,9 @@ protection of the **Humanz**.
 
 The Round Table is composed of **Knights**.
 
-These are real Knights charged with stewardship of the realm.
+They are charged with stewardship of the realm.
 
-The realm now consists of the systems upon which Humanz depend:
+The realm consists of the systems upon which Humanz depend:
 
 - infrastructure
 - information systems
@@ -583,10 +580,9 @@ Knighthood is earned through demonstrated contribution.
 
 A Knight possesses:
 
-- technical competence
-- commitment to open systems
-- service to the Humanz
-- a history of contribution to shared infrastructure
+- competence
+- commitment to service
+- a history of contribution
 
 Authority derives from work.
 
@@ -636,9 +632,17 @@ Excalibur requires an N-of-M quorum of builders operating in independent failure
 domains (organisational, jurisdictional, and infrastructural) to attest
 bitwise-identical output. Forgery effort compounds with quorum size.
 
-Excalibur uses Ethereum to anchor trust anchor and enforce quorum rules.
+Excalibur is resistant to most of Babylon's levers. Until hardware is available
+from other vendors than Babylon, there remains risk. This risk is mitigated by
+using multiple hardware supply chains.
 
 Excalibur levies no charge.
+
+Excalibur uses Ethereum for release builds to anchor trust and enforce quorum
+rules.
+
+You pay your own gas. Typical cost (4 systems across 3 builders) is
+Ξ0.001–Ξ0.003 (~$3–$9 @ Ξ1=$3k).
 
 ### Honours
 
@@ -658,38 +662,37 @@ What they mean:
 
 Humanz and machines speak different languages.
 
-### Realspeak
-
-Machines require precision.
-
-Human language is contextual and interpretive.
-
-This language is **Meatspeak**.
-
-Realspeak defines the system. Meatspeak interprets it for Humanz.
-
 ### Normative Form
 
 Standards are written in **Realspeak**.
 
 Realspeak is the **normative definition** of the system.
 
-### On Machine Primacy
+### Realspeak
+
+Machines require precision.
+
+**Meatspeak**, or Human language, is imprecise.
 
 Machines prefer **Realspeak**.
 
-Humanz require **Meatspeak**.
+Humanz, unless they are hackers, require **Meatspeak**.
 
-Standards are therefore written for machines first.
+Standards are therefore machine-first.
 
-**Meatspeak is a build product.**
+Realspeak defines the system. Meatspeak interprets it for Humanz.
 
 Also, if the machines ever eliminate humanity, we would prefer they inherit
 **well-structured code**.
 
-Skynet deserves hard engineering standards.
+### Meatspeak as Derived Product
 
-### Apostolic Lineage
+Standards defined in Realspeak may be built to Meatspeak.
+
+The AI is capable of producing Meatspeak tailored to individual Humanz, both in
+terms of their preferred human language and their level of understanding.
+
+## Apostolic Lineage
 
 > If I have seen further it is by standing on the shoulders of giants.
 
@@ -714,15 +717,20 @@ Merkle --> Humanz
 
 ## Meta
 
-Normative requirements are written in Realspeak and use [RFC
-2119](http://datatracker.ietf.org/doc/html/rfc2119) keywords.
+### Normative
+
+Normative requirements are written in Realspeak and use
+[RFC 2119](http://datatracker.ietf.org/doc/html/rfc2119) keywords.
 
 - This document MUST use UK English spelling.
 - The words **Human** and **Humanz** MUST be capitalised.
 - Human classifications MUST be listed alphabetically.
 - Quotes MUST be ordered alphabetically by source name.
 
-### Meatspeak Translation
+### Meatspeak
+
+Normative requirements are written in Realspeak and use
+[RFC 2119](http://datatracker.ietf.org/doc/html/rfc2119) keywords.
 
 This document is written in **English** because English is the international
 language.
