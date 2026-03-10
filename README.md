@@ -471,7 +471,7 @@ say, no matter how you say it. Torvalds has high standards:
 
 > fuck you, NVIDIA
 >
-> - Linus Torvalds, 2012
+> - [Linus Torvalds, 2012](https://www.youtube.com/watch?v=IVpOyKCNZYw)
 
 Realspeak:
 
@@ -483,41 +483,41 @@ Realspeak:
 
 > When the root of a tree begins to decay, it spreads death to the branches.
 >
-> - African proverb
+> - [African proverb](https://en.wikiquote.org/wiki/African_proverbs)
 
 > The nature of action is difficult to understand. Therefore one should know
 > properly what action is, what wrong action is, and what inaction is.
 >
-> - Bhagavad Gita 4:17
+> - [Bhagavad Gita 4:17](https://en.wikisource.org/wiki/The_Bhagavad_Gita_(Radhakrishnan)/Chapter_4)
 
 > The wicked earns deceptive wages, but one who sows righteousness gets a sure
 > reward.
 >
-> - Proverbs 11:18
+> - [Proverbs 11:18](https://en.wikisource.org/wiki/Bible_(King_James)/Proverbs#Chapter_11)
 
 > If names are not correct, language will not be in accordance with the truth of
 > things.
 >
-> - Confucius, Analects 13:3
+> - [Confucius, Analects 13:3](https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects)
 
 > Character is destiny.
 >
-> - Heraclitus
+> - [Heraclitus](https://en.wikiquote.org/wiki/Heraclitus)
 
 > For every action there is an equal and opposite reaction.
 >
-> - Isaac Newton, Principia Mathematica
+> - [Isaac Newton, Principia Mathematica](https://en.wikisource.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica)
 
 > Indeed, Allah will not change the condition of a people until they change what
 > is in themselves.
 >
-> - Qur'an 13:11
+> - [Qur'an 13:11](https://en.wikisource.org/wiki/The_Holy_Qur%27an_(Maulana_Muhammad_Ali)/13._The_Thunder)
 
 > When this exists, that comes to be; with the arising of this, that arises.
 > When this does not exist, that does not come to be; with the cessation of
 > this, that ceases.
 >
-> - Samyutta Nikaya (Dependent Origination)
+> - [Samyutta Nikaya (Dependent Origination)](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da)
 
 The Law has a modern formulation, often misattributed as a law of computing:
 
@@ -527,64 +527,64 @@ The Law has a modern formulation, often misattributed as a law of computing:
 
 > With the measure a man measures, it is measured to him.
 >
-> - Babylonian Talmud, Sotah 8b
+> - [Babylonian Talmud, Sotah 8b](https://www.sefaria.org/Sotah.8b)
 
 > For whatsoever a man soweth, that shall he also reap.
 >
-> - Galatians 6:7
+> - [Galatians 6:7](https://en.wikisource.org/wiki/Bible_(King_James)/Galatians#Chapter_6)
 
 > What you do not wish for yourself, do not do to others.
 >
-> - Confucius, Analects 15:23
+> - [Confucius, Analects 15:23](https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects)
 
 > If with an impure mind a person speaks or acts, suffering follows him... If
 > with a pure mind a person speaks or acts, happiness follows him like his
 > never-departing shadow.
 >
-> - Dhammapada 1-2
+> - [Dhammapada 1-2](https://en.wikisource.org/wiki/Dhammapada_(Muller))
 
 > As you sow, so shall you reap.
 >
-> - Guru Granth Sahib
+> - [Guru Granth Sahib](https://en.wikiquote.org/wiki/Guru_Granth_Sahib)
 
 > Now don't you understand, man, universal law? What you throw out comes back to
 > you, star. Never underestimate those who you scar. Cause karma, karma, karma
 > comes back to you hard.
 >
-> - Ms. Lauryn Hill, Lost Ones
+> - [Ms. Lauryn Hill, Lost Ones](https://genius.com/Ms-lauryn-hill-lost-ones-lyrics)
 
 > Whoever does an atom's weight of good will see it, and whoever does an atom's
 > weight of evil will see it.
 >
-> - Qur'an 99:7-8
+> - [Qur'an 99:7-8](https://en.wikisource.org/wiki/The_Holy_Qur%27an_(Maulana_Muhammad_Ali)/99._The_Quaking)
 
 > Good thoughts, good words, good deeds.
 >
-> - Zoroastrian Scripture, Avesta
+> - [Zoroastrian Scripture, Avesta](https://en.wikisource.org/wiki/Zend_Avesta)
 
 ### Law of the Truth
 
 > Truth stands, falsehood does not endure.
 >
-> - Babylonian Talmud, Shabbat 104a
+> - [Babylonian Talmud, Shabbat 104a](https://www.sefaria.org/Shabbat.104a)
 
 > For nothing is secret that shall not be made manifest; neither any thing hid,
 > that shall not be known and come abroad.
 >
-> - Luke 8:17
+> - [Luke 8:17](https://en.wikisource.org/wiki/Bible_(King_James)/Luke#Chapter_8)
 
 > Three things cannot long remain hidden: the sun, the moon, and the truth.
 >
-> - Attributed to the Buddha
+> - [Attributed to the Buddha](https://en.wikiquote.org/wiki/Gautama_Buddha)
 
 > Truth alone triumphs; not falsehood.
 >
-> - Mundaka Upanishad 3.1.6
+> - [Mundaka Upanishad 3.1.6](https://en.wikisource.org/wiki/The_Ten_Principal_Upanishads/Mundaka_Upanishad)
 
 > Truth has come and falsehood has vanished. Indeed falsehood is bound to
 > vanish.
 >
-> - Qur'an 17:81
+> - [Qur'an 17:81](https://en.wikisource.org/wiki/The_Holy_Qur%27an_(Maulana_Muhammad_Ali)/17._The_Israelites)
 
 ## Babylon
 
@@ -640,7 +640,7 @@ Babylon.**
 
 > There's no fire like passion... no river like craving.
 >
-> - **[Dhammapada 251](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.18.than.html#dhp-251)**
+> - **[Dhammapada 251](https://en.wikisource.org/wiki/Dhammapada_(Muller))**
 
 > By the rivers of Babylon, there we sat down, yea, we wept.
 >
@@ -648,7 +648,7 @@ Babylon.**
 
 > the two angels at Babylon, Harut and Marut
 >
-> - **[Qur'an 2:102](https://www.quranv.com/en/2/102)**
+> - **[Qur'an 2:102](https://en.wikisource.org/wiki/The_Holy_Qur%27an_(Maulana_Muhammad_Ali)/2._The_Cow)**
 
 > MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE
 > EARTH.
@@ -760,7 +760,7 @@ Only the Lords of Babylon have the means.
 > dog weh piss ‘gainst the wall a Babylon shall escape this judgment. For I an’
 > I know seh all a di yute dem shall witness di day when Babylon shall fall di
 >
-> - Rockers, 1978
+> - [Rockers, 1978](https://www.imdb.com/title/tt0079815/quotes/)
 
 ~~**Babylon is the most powerful threat actor in this reality.**~~
 
