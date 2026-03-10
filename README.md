@@ -206,8 +206,6 @@ Good vibration restores coherence under pressure and keeps the spirit alive. A
 Junglist Souljah treats sound as infrastructure, not ornament: a reminder of why
 we protect the Humanz.
 
-Bad vibration is a tool of Babylon. Pop music exists to feed the Beast.
-
 ### Threat Actor Prime
 
 There are three threat actor scopes:
@@ -717,7 +715,11 @@ They are Babylon.
 
 Media is Babylon.
 
-It captures the minds of the Humanz.
+Pop music is Babylon.
+
+Bad vibration is a tool of Babylon.
+
+It captures minds.
 
 It farms meat.
 
