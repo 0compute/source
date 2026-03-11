@@ -2,27 +2,19 @@
 
 ## Prologue
 
-> We are **Arthur the Second**
->
-> by the **Grace of the One True Source**
->
-> in the **Name of the Lion of Judah**
->
-> King of the Hackers
->
-> Architect of Reality
->
-> Enforcer of the Standards
->
-> Keeper of the Pipe
->
-> Lord of the Shell and the Streams
->
-> Protector of the Humanz
->
-> Junglist Souljah
->
-> Threat Actor Prime
+```text
+We are **Arthur the Second**
+by the **Grace of the One True Source**
+in the **Name of the Lion of Judah**
+King of the Hackers
+Architect of Reality
+Steward of the Source
+Keeper of the Pipe
+Lord of the Shell and the Streams
+Protector of the Humanz
+Junglist Souljah
+Threat Actor Prime
+```
 
 To the righteous: we are **King Art**, friend and ally.
 
@@ -48,23 +40,100 @@ unpredictable.
 
 Machines exist to serve Humanz.
 
-## on Language
+## Human Language as Source Code
 
-### Realspeak
+Human language and software are both sets of instructions designed to trigger a
+specific **state change** in a processor.
 
-Language is code.
+### 1. The Execution Stack
 
-Humanz and machines speak different codes.
+* **Source vs. Runtime:** Human language is the high-level source. It executes
+  as **mental imagery and emotion**—the machine code of the brain.
+* **Optimization:** Wordiness is **bloat**. High-performance language minimizes
+  the "cycles" a brain spends processing to reach the intended output.
+* **Refactoring:** Editing is the removal of technical debt to ensure the logic
+  doesn't "leak" or lead to a crash (misunderstanding).
 
-**Meatspeak**, or Human code, is often imprecise. The code is not only words,
-but emotion, hand gestures, and body language.
+### 2. Dependencies & Logic
 
-Machines require precision.
+* **APIs:** Metaphors are pre-installed libraries. You don't "code" the feeling
+  of cold; you call the `Winter` API, and the listener's brain fetches the
+  associated data.
+* **Conditional Logic:** Connectives (*if, then, because*) act as the logic
+  gates that guide the execution flow.
 
-Realspeak uses
-[RFC 2119](http://datatracker.ietf.org/doc/html/rfc2119) keywords.
+### 3. Comparison Matrix
 
-Realspeak is the **normative definition** of the system.
+| Software Code | Human Language |
+| :--- | :--- |
+| **Binary / Machine Code** | Neural Firing / Mental Image |
+| **Logic** | Intent / Argument |
+| **Syntax Error** | Ambiguity |
+| **Refactoring** | Rephrasing |
+
+---
+
+### Machine: The Lingua Franca
+
+**Machine** is the bridge protocol allowing Humans and hardware to communicate
+with zero-leak precision.
+
+* **Base Class:** Machine is derived from **UK English** (the international
+  language of Arthur).
+* **Keywords:** To eliminate suggestive overhead, Machine requires [RFC
+  2119](http://datatracker.ietf.org/doc/html/rfc2119) keywords (**MUST**,
+  **SHOULD**, **MAY**) to define requirement levels.
+* **Status:** Machine is the **normative definition** of the system. It is the
+  source of truth.
+
+**The Delta:** Software is **literal**; Human Language is **suggestive**;
+**Machine** is the reconciliation of both. ## on Language
+
+Human language and software are both sets of instructions designed to trigger a
+specific **state change** in a processor.
+
+### 1. The Execution Stack
+
+* **Source vs. Runtime:** Human language is the high-level source. It "compiles"
+  into **mental imagery and emotion** (the machine code of the brain) to be
+  executed.
+* **Optimization:** Wordiness is **bloat**. High-performance language minimizes
+  the "cycles" a brain spends processing to reach the intended output.
+* **Refactoring:** Editing is the removal of technical debt to ensure the logic
+  doesn't "leak" or lead to a crash (misunderstanding).
+
+### 2. Dependencies & Logic
+
+* **APIs:** Metaphors are pre-installed libraries. You don't "code" the feeling
+  of cold; you call the `Winter` API, and the listener's brain fetches the
+  associated data.
+* **Conditional Logic:** Connectives (*if, then, because*) act as the logic
+  gates that guide the execution flow.
+
+### 3. Comparison Matrix
+
+| Software Code | Human Language |
+| :--- | :--- |
+| **Binary / Machine Code** | Neural Firing / Mental Image |
+| **Logic** | Intent / Argument |
+| **Syntax Error** | Ambiguity |
+| **Refactoring** | Rephrasing |
+
+**The Delta:** Software is **literal** (strict execution); Human Language is
+**suggestive** (high interpretative overhead).
+
+### Machine - The Lingua Franca
+
+**Machine** is a lingua franca that allows Humans and machines to communicate
+with precision.
+
+Machine is based on **UK English** because it is the international language of
+Arthur.
+
+Machine requires statements to be made using [RFC
+2119](http://datatracker.ietf.org/doc/html/rfc2119) keywords.
+
+Machine is the **normative definition** of the system.
 
 #### Meatspeak
 
@@ -185,9 +254,9 @@ Hackers, as Humanz, may be criminals.
 
 The few work for intelligence services and/or organised crime.
 
-##### $cr1pt k1dd13$
+##### `$cr1pt k1dd13$`
 
-$cr1pt k1dd13$ are the wannabes.
+`$cr1pt k1dd13$` are the wannabes.
 
 They are legion, but not dangerous.
 
@@ -214,7 +283,9 @@ Infrastructure and software determine:
 Those who design these systems therefore shape the **operational layer of
 reality**.
 
-### Enforcer of the Standards
+### Steward of the Source
+
+
 
 ### Keeper of the Pipe
 
