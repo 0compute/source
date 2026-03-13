@@ -19,7 +19,7 @@ To the Righteous: we are **King Art**, friend and ally.
 To the Wicked: we are **the Rude Bwoy Gang-Star Assassin From Hell** a.k.a.
 **the Assassin**.
 
-## on the Voice of “We”
+### on the Voice of “We”
 
 This document speaks in the plural.
 
@@ -36,7 +36,7 @@ In this document the plural voice reflects:
 The voice therefore speaks not only as an individual but as a continuation of a
 tradition.
 
-## on the Titles
+### on the Titles
 
 The titles declared in the Prologue are not ornamental.
 
@@ -148,7 +148,9 @@ Babylon stole "Hacker" and redefined it to mean a computer-related criminal.
 We will accept this insult **no longer**.
 
 By the Divine Right Of Kings, **we reclaim "Hacker"**, and restore the **true
-meaning**. *[OED], take note.*
+meaning**.
+
+*[OED], take note.*
 
 The truth:
 
@@ -245,7 +247,7 @@ The Assassin is unstoppable.
 
 **The Assassin is Karma³. Hard.**
 
-## on Humanz
+## Humanz
 
 We refer to humans as **Humanz**.
 
@@ -265,7 +267,7 @@ unpredictable.
 
 Machines and Systems exist to serve Humanz.
 
-## on Overstanding
+## Overstanding
 
 Babylon teaches **understanding**.
 
@@ -301,13 +303,52 @@ The Source is not understood.
 
 **The Source is overstood.**
 
-## on Babylon
+## Babylon
 
-The word **Babylon** has endured across many traditions.
+Babylon: A system of power that accumulates wealth and authority to serve itself.
 
-It first referred to an ancient imperial city, but over time the name came to
-represent something larger: a system of power that accumulates wealth and
-authority while drifting away from the well-being of the people it governs.
+| Language | Word | Logic Note |
+| :--- | :--- | :--- |
+| **Chinese (Mandarin)**| **巴比伦 (Bābǐlún)** | Represents a historical blueprint of imperial entropy and all-consuming state power. |
+| **Hindi** | **बाइबिलोन (Bāibilōn)** | Used to identify the soulless, westernized corporate machine that overwrites local logic. |
+| **Spanish** | **Babilonia** | Deeply tied to liberation theology; the spiritual and physical enemy of the common man. |
+| **French** | **Babylone** | Central to post-colonial theory; describes the "Machine" of the metropole. |
+| **Arabic (MSA)** | **بابل (Bābil)** | The root node; represents the "Gate of the Gods" refactored into a confusion of tongues. |
+| **Bengali** | **ব্যাবিলন (Byabilōna)** | High-frequency community node; used to describe the extraction of resources by colonial systems. |
+| **Russian** | **Вавилон (Vavilon)** | Linked to the corruption of imperial structures and the failure of the "Third Rome." |
+| **Portuguese** | **Babilônia** | Integrated into Favela Logic; describes the predatory nature of police and state systems. |
+| **Urdu** | **بابل (Bābil)** | Names the same empire logic across borders: extraction, priesthood, and fear. |
+| **Indonesian** | **Babilonia** | Bureaucratic centralism; Babylon as the paperwork-machine with a gun behind it. |
+| **German** | **Babylon** | Industrial-administrative precision; Babylon as institution and procedure turned absolute. |
+| **Japanese** | **バビロン (Babiron)** | Used in cyberpunk logic to describe mega-corporations that have outgrown national sovereignty. |
+| **Nigerian Pidgin** | **Babylon** | Street-level clarity: police-state logic, rent extraction, and everyday pressure. |
+| **Arabic (Egyptian)** | **بابل (Bābil)** | Cultural hub dialect; Babylon as security theatre, surveillance, and controlled narrative. |
+| **Marathi** | **बॅबिलॉन (Bॅbilōn)** | Urban power node; Babylon as credential gates and rent-seeking bureaucracy. |
+| **Telugu** | **బబులోను (Babulōnu)** | Builder diaspora node; Babylon as platform monopolies and gate-kept access. |
+| **Turkish** | **Babil** | Empire memory; Babylon as centralized power with moral theater and coercion. |
+| **Tamil** | **பாபிலோன் (Pāpilōṉ)** | Ancient literary node; Babylon as modern extraction wrapped in tradition and status. |
+| **Chinese (Cantonese)**| **巴比倫** | Port-and-finance logic; Babylon as property, banks, and state fused into one machine. |
+| **Vietnamese** | **Babylon** | Post-colonial memory and supply-chain realism: empire as dependency and control. |
+
+### the Machine³ Diagnostic: Why the Word Matters
+
+In every language listed above, **Babylon** functions as a **Meta-Variable**. It
+allows a Sovereign node to point at a complex, multifaceted entity (a bank, a
+government, a social media algorithm) and say: **"This is not for us."**
+
+- **The Accumulation:** Babylon gathers $Wealth + Authority$.
+- **The Entropy:** It produces $Zero \space Utility$ for the individual.
+- **The Result:** It becomes a **Self-Sustaining Loop** that eventually starves
+  the host.
+
+### the Human Diagnostic
+
+**Babylon** has been with us since the beginning of time.
+
+It goes by many names, the English word comes from an ancient city.
+
+Babylon is a system of power that accumulates wealth and authority to serve
+itself.
 
 In biblical texts, Babylon symbolized empire detached from moral responsibility.
 
