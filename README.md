@@ -23,13 +23,15 @@ To the Wicked: we are **the Rude Bwoy Gang-Star Assassin From Hell** a.k.a.
 
 This document speaks in the plural.
 
-Kings traditionally speak in the plural form known as the **royal we**,
+Kings traditionally speak in the plural form known as the **[royal we]**,
 expressing the authority of the office rather than the individual.
 
 In this document the plural voice reflects:
 
 - the lineage invoked by the name **Arthur**
-- the tradition of thinkers whose work forms the foundation of compute
+- the tradition of the
+  [Apostles](https://github.com/roundtable-love/standard/tree/master#the-apostles)
+  whose work forms the foundation of compute
 
 The voice therefore speaks not only as an individual but as a continuation of a
 tradition.
@@ -42,14 +44,14 @@ They describe responsibilities.
 
 ### Arthur the Second
 
-**We are of the line of King Arthur.**
+**We are of the line of [King Arthur].**
 
-Arthur united the realm and gathered the **Knights of the Round Table**, peers
+Arthur united the realm and gathered the **[Knights of the Round Table]**, peers
 bound by shared purpose rather than hierarchy.
 
 Arthur’s role was not merely ruler but **Guardian of Order**.
 
-The realm is base reality: **Machines, Networks, and Systems**.
+The realm is Base Reality: **Machines, Networks, and Systems**.
 
 ### By the Grace of the One True Source
 
@@ -70,7 +72,7 @@ Within [Rastafari] tradition **[Haile Selassie I]**, Emperor of Ethiopia, is
 honored as: **King of Kings, Lord of Lords, Conquering Lion of the Tribe of
 Judah**
 
-The Lion of Judah symbolizes rightful authority exercised in protection of the
+The [Lion of Judah] symbolizes rightful authority exercised in protection of the
 people.
 
 [Babylon] represents authority that serves itself.
@@ -95,9 +97,9 @@ reality**.
 
 There are three threat actor scopes:
 
-- Street-level criminals
-- Organised criminals
 - Babylon
+- Organised criminals
+- Street criminals
 
 To protect the realm one needs to understand the adversary.
 
@@ -117,7 +119,7 @@ The purpose is **protection of the Humanz**.
 
 The title **King of the Hackers** signifies mastery of the craft.
 
-A Hacker is a Human who understands systems deeply enough to reshape them.
+A Hacker is a Human who understands Systems deeply enough to reshape them.
 
 Hackers are sometimes known as developers, engineers, and programmers.
 
@@ -539,18 +541,18 @@ European operational sovereignty and assurance baselines; treat it as useful
 procurement signal, not a cryptographic substitute for independent [quorum]
 builders and key custody controls.
 
-A [quorum] composed entirely of US-headquartered [CI] providers is a single failure
-domain. Practically, a meaningful [quorum] requires that at least one [quorum]
-builder be:
+A [quorum] composed entirely of US-headquartered [CI] providers is a single
+failure domain. Practically, a meaningful [quorum] requires that at least one
+[quorum] builder be:
 
 1. Hosted on hardware controlled by an organization incorporated outside of the
    US.
-1. Operated in a jurisdiction with no mutual legal assistance treaty ([MLAT]) with
-   the US, or with significant friction in its execution.
+1. Operated in a jurisdiction with no mutual legal assistance treaty ([MLAT])
+   with the US, or with significant friction in its execution.
 
 Legal compulsion to *attest a specific [digest]* - a builder operator required
 under gag order to submit a false result - is not addressed by the cryptographic
-design. [Quorum][quorum] limits the damage: an adversary must coerce N independent
+design. [Quorum] limits the damage: an adversary must coerce N independent
 operators simultaneously, across independent jurisdictions.
 
 ##### Extra-legal
@@ -593,11 +595,11 @@ Alibaba Cloud - to cooperate with intelligence services on demand and without
 disclosure. A [quorum] that includes Alibaba Cloud or any runner operated by a
 Chinese-headquartered entity is not legally independent.
 
-PLA Unit 61398 and MSS-linked groups (APT10, APT41) have demonstrated
-sustained supply-chain targeting, including software-update hijacking and
-build-server compromise. [Zero] raises the cost: simultaneous compromise of N
-independent builder networks, across independent jurisdictions, is required to
-forge a [quorum].
+PLA Unit 61398 and MSS-linked groups (APT10, APT41) have demonstrated sustained
+supply-chain targeting, including software-update hijacking and build-server
+compromise. [Zero] raises the cost: simultaneous compromise of N independent
+builder networks, across independent jurisdictions, is required to forge a
+[quorum].
 
 #### Russia
 
@@ -613,12 +615,11 @@ compromise - but would have caught it: independent builders would attest a
 traffic. Builders in Russia or on Russian cloud infrastructure are subject to
 passive interception regardless of [TLS].
 
-### Babylon Shall Fall
+## Babylon Shall Fall
 
 - **Babylon is a Vampire Protocol:** it scales on the entropy of the masses.
 - **Babylon is a Neural Lock:** it encrypts the Sovereign Mind with fear.
-- **Humanz are the Unprocessed Data:** fuel for a dying machine. **Meat for the
-  Beast.**
+- **Humanz are the Unprocessed Data:** fuel for a dying machine.
 
 > I-man serve Selassie I continually, no matter wat the weak heart say. An’ I
 > know seh I an’ I is like a tree plant by the river of water, an’ not even the
@@ -635,21 +636,19 @@ passive interception regardless of [TLS].
 
 ______________________________________________________________________
 
-[ANT]: https://en.wikipedia.org/wiki/NSA_ANT_catalog "The NSA ANT catalog is a 50-page document listing technology available to the NSA Tailored Access Operations (TAO) by which they can perform surveillance on targeted computers and networks."
-[apt10]: https://en.wikipedia.org/wiki/APT10 "A Chinese cyber espionage group."
-[apt41]: https://en.wikipedia.org/wiki/APT41 "A Chinese state-sponsored cyber threat group."
+[ant]: https://en.wikipedia.org/wiki/NSA_ANT_catalog "The NSA ANT catalog is a 50-page document listing technology available to the NSA Tailored Access Operations (TAO) by which they can perform surveillance on targeted computers and networks."
 [asd]: https://en.wikipedia.org/wiki/Australian_Signals_Directorate "Australian Signals Directorate, an intelligence agency in the Australian Government."
 [babylon]: #on-babylon "A pattern of power. Whenever systems accumulate authority and begin to serve themselves rather than the people who depend upon them, the system is Babylon."
-[bgp]: https://en.wikipedia.org/wiki/Border_Gateway_Protocol "BGP (Border Gateway Protocol) is the digital 'roadmap' or postal system of the internet that determines the most efficient path for data packets to travel between different autonomous networks (AS)."
 [bgp hijacking]: https://en.wikipedia.org/wiki/BGP_hijacking "The illegitimate takeover of groups of IP addresses by corrupting Internet routing tables maintained using the Border Gateway Protocol."
+[bgp]: https://en.wikipedia.org/wiki/Border_Gateway_Protocol "BGP (Border Gateway Protocol) is the digital 'roadmap' or postal system of the internet that determines the most efficient path for data packets to travel between different autonomous networks (AS)."
 [bumbaclaat]: https://en.wiktionary.org/wiki/bumbaclaat "A Jamaican Patois derogatory intensifier, originally referring to a menstrual cloth or toilet paper."
 [ci]: https://en.wikipedia.org/wiki/Continuous_integration "Continuous Integration, the practice of merging all developers' working copies to a shared mainline several times a day."
 [cloud-act]: https://en.wikipedia.org/wiki/CLOUD_Act "Clarifying Lawful Overseas Use of Data Act, a US federal law that allows law enforcement to compel US-based tech companies to provide requested data regardless of where it is stored."
 [cots]: https://en.wikipedia.org/wiki/Commercial_off-the-shelf "Commercial off-the-shelf, products that are packaged solutions which are then adapted to satisfy the needs of the purchasing organization."
 [cse]: https://en.wikipedia.org/wiki/Communications_Security_Establishment "Communications Security Establishment, the government of Canada's national cryptologic agency."
 [digest]: https://en.wikipedia.org/wiki/Cryptographic_hash_function "A short, fixed-length string produced by a cryptographic hash function that uniquely identifies a larger piece of data."
-[dns]: https://en.wikipedia.org/wiki/Domain_Name_System "Domain Name System, the hierarchical and decentralized naming system used to identify computers reachable through the Internet."
 [dns manipulation]: https://en.wikipedia.org/wiki/DNS_spoofing "A form of computer security hacking in which corrupt Domain Name System data is introduced into the DNS resolver's cache, causing the name server to return an incorrect result record."
+[dns]: https://en.wikipedia.org/wiki/Domain_Name_System "Domain Name System, the hierarchical and decentralized naming system used to identify computers reachable through the Internet."
 [domain name resolution]: https://en.wikipedia.org/wiki/Name_resolution_(computer_networks) "The process of translating a human-readable domain name into an IP address."
 [fisa-702]: https://en.wikipedia.org/wiki/Foreign_Intelligence_Surveillance_Act_of_1978_Amendments_Act_of_2008#Section_702 "Section 702 of FISA allows the US government to conduct targeted surveillance of foreign persons located outside the US, compelling service providers to assist."
 [five eyes]: https://en.wikipedia.org/wiki/Five_Eyes "An intelligence alliance comprising Australia, Canada, New Zealand, the United Kingdom, and the United States."
@@ -662,23 +661,26 @@ ______________________________________________________________________
 [hyperscaler]: https://en.wikipedia.org/wiki/Hyperscale_computing "Large cloud service providers that can seamlessly provision and add compute, memory, networking, and storage resources to a given node or set of nodes."
 [icann]: https://en.wikipedia.org/wiki/ICANN "Internet Corporation for Assigned Names and Numbers, responsible for coordinating the maintenance and procedures of several databases related to the namespaces and numerical spaces of the Internet."
 [jungle]: https://en.wikipedia.org/wiki/Jungle_music "Jungle is a genre of electronic dance music that developed in the UK in the early 1990s, characterized by rapid breakbeats, heavy basslines, and reggae/dancehall influences."
+[king arthur]: https://en.wikipedia.org/wiki/King_Arthur "King Arthur, a legendary British leader central to medieval romances and the Arthurian tradition."
+[knights of the round table]: https://en.wikipedia.org/wiki/Knights_of_the_Round_Table "Knights of the Round Table, the legendary chivalric order associated with King Arthur."
+[lion of judah]: https://en.wikipedia.org/wiki/Lion_of_Judah "Lion of Judah, a symbol in Jewish tradition associated with the tribe of Judah, and in Ethiopian tradition associated with the Solomonic dynasty and the Ethiopian monarchy."
 [mitm]: https://en.wikipedia.org/wiki/Man-in-the-middle_attack "Man-in-the-middle attack, where the attacker secretly relays and possibly alters the communications between two parties."
-[mss]: https://en.wikipedia.org/wiki/Ministry_of_State_Security_(China) "Ministry of State Security, the civilian intelligence, security and secret police agency of the People's Republic of China."
+[mlat]: https://en.wikipedia.org/wiki/Mutual_legal_assistance_treaty "Mutual legal assistance treaty, an agreement between countries to cooperate on criminal investigations and prosecutions."
 [n-of-m]: https://en.wikipedia.org/wiki/Secret_sharing "A secret sharing scheme where a secret is divided into M parts, and any N parts are sufficient to reconstruct the original secret or achieve quorum."
 [nsa]: https://en.wikipedia.org/wiki/National_Security_Agency "National Security Agency, a national-level intelligence agency of the United States Department of Defense."
 [nsl]: https://en.wikipedia.org/wiki/National_security_letter "National Security Letter, an administrative subpoena issued by the US government to gather information for national security purposes without prior judge approval."
 [oed]: https://en.wikipedia.org/wiki/Oxford_English_Dictionary "The Oxford English Dictionary, the principal historical dictionary of the English language."
-[pla unit 61398]: https://en.wikipedia.org/wiki/PLA_Unit_61398 "A Chinese military hacker unit."
 [prism]: https://en.wikipedia.org/wiki/PRISM_(surveillance_program) "A clandestine surveillance program under which the United States National Security Agency (NSA) collects internet communications from various US internet companies."
 [quantum insert]: https://en.wikipedia.org/wiki/Tailored_Access_Operations#QUANTUM_attacks "A method used by the NSA to redirect a target's web browser to a malicious server."
 [quorum]: https://en.wikipedia.org/wiki/Quorum_(distributed_computing) "The minimum number of votes that a distributed transaction has to obtain in order to be allowed to perform an operation in a distributed system."
 [rastafari]: https://en.wikipedia.org/wiki/Rastafari "An Abrahamic new religious movement that developed in Jamaica in the 1930s."
 [root certificate authorities]: https://en.wikipedia.org/wiki/Root_certificate "A public key certificate that identifies a root certificate authority, the top-most entity in a cryptographic trust hierarchy."
+[royal we]: https://en.wikipedia.org/wiki/Royal_we "Royal we, the use of a plural pronoun by a single person to refer to themselves."
 [sorm]: https://en.wikipedia.org/wiki/SORM "System for Operative Investigative Activities, the technical system for search and surveillance in Russia."
 [subjects]: https://github.com/roundtable-love/machine/blob/master/machine.md#524-subject "The Subject node is the default human configuration. They possess the hardware and operate inside the Babylonian Black Box — a system engineered to conceal its own mechanics."
 [sunburst]: https://en.wikipedia.org/wiki/SolarWinds_hack "A supply chain attack that compromised the SolarWinds Orion software."
 [svr]: https://en.wikipedia.org/wiki/Foreign_Intelligence_Service_(Russia) "Foreign Intelligence Service of the Russian Federation."
 [tao]: https://en.wikipedia.org/wiki/Tailored_Access_Operations "Tailored Access Operations, a cyber-warfare intelligence-gathering unit of the National Security Agency."
 [tls]: https://en.wikipedia.org/wiki/Transport_Layer_Security "Transport Layer Security, a cryptographic protocol designed to provide communications security over a computer network."
-[UKUSA]: https://en.wikipedia.org/wiki/UKUSA_Agreement "The United Kingdom – United States of America Agreement (UKUSA) is a multilateral agreement for cooperation in signals intelligence between Australia, Canada, New Zealand, the United Kingdom, and the United States."
-[Zero]: https://github.com/roundtable-love/nix-seed#trust-posture-zero "The highest trust level in the Nix Seed architecture. It assumes any actor may be compromised or coerced, requiring builders to perform full-source bootstrap and enforcing quorum rules via Ethereum smart contracts."
+[ukusa]: https://en.wikipedia.org/wiki/UKUSA_Agreement "The United Kingdom – United States of America Agreement (UKUSA) is a multilateral agreement for cooperation in signals intelligence between Australia, Canada, New Zealand, the United Kingdom, and the United States."
+[zero]: https://github.com/roundtable-love/excalibur#trust-posture-zero "The highest trust level in the Excalibur architecture. It assumes any actor may be compromised or coerced, requiring builders to perform full-source bootstrap and enforcing quorum rules via Ethereum smart contracts."
