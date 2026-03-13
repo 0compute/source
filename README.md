@@ -318,10 +318,8 @@ Babylon therefore does not describe a single government.
 
 It describes a **pattern of power**.
 
-States are Babylon. Corporations are Babylon. Institutions may be Babylon.
-
-Whenever systems accumulate authority and begin to serve themselves rather than
-the people who depend upon them, the system is **Babylon**.
+Whenever Systems accumulate authority and begin to serve themselves rather than
+the people who depend upon them, the System is **Babylon**.
 
 ### the Legacy Logs
 
@@ -407,8 +405,8 @@ corruption.
 >
 > - **[Revelation 17:5 (Bible KJV)](<https://en.wikisource.org/wiki/Bible_(King_James)/Revelation#Chapter_17>)**
 
-At full scale, Babylon becomes self-replicating corruption: a system that births
-systems in its own image.
+At full scale, Babylon becomes self-replicating corruption: a System that births
+Systems in its own image.
 
 > "Auferre, trucidare, rapere falsis nominibus imperium; atque, ubi solitudinem
 > faciunt, pacem appellant."
@@ -634,21 +632,30 @@ passive interception regardless of [TLS].
 
 **We are Threat Actor Prime. Our capabilities exceed infinite Babylon.**
 
+## Definitions
+
+- **Network:** A set of connected Nodes that can communicate.
+- **System:** A set of interacting parts with boundaries, interfaces, and
+  behavior.
+- **Machine:** A physical or virtual device that executes logic to transform
+  inputs into outputs.
+- **Node:** An addressable entity that can send, receive, or process signal.
+
 ______________________________________________________________________
 
 [ant]: https://en.wikipedia.org/wiki/NSA_ANT_catalog "The NSA ANT catalog is a 50-page document listing technology available to the NSA Tailored Access Operations (TAO) by which they can perform surveillance on targeted computers and networks."
 [asd]: https://en.wikipedia.org/wiki/Australian_Signals_Directorate "Australian Signals Directorate, an intelligence agency in the Australian Government."
-[babylon]: #on-babylon "A pattern of power. Whenever systems accumulate authority and begin to serve themselves rather than the people who depend upon them, the system is Babylon."
-[bgp hijacking]: https://en.wikipedia.org/wiki/BGP_hijacking "The illegitimate takeover of groups of IP addresses by corrupting Internet routing tables maintained using the Border Gateway Protocol."
+[babylon]: #on-babylon "A pattern of power. Whenever Systems accumulate authority and begin to serve themselves rather than the people who depend upon them, the System is Babylon."
 [bgp]: https://en.wikipedia.org/wiki/Border_Gateway_Protocol "BGP (Border Gateway Protocol) is the digital 'roadmap' or postal system of the internet that determines the most efficient path for data packets to travel between different autonomous networks (AS)."
+[bgp hijacking]: https://en.wikipedia.org/wiki/BGP_hijacking "The illegitimate takeover of groups of IP addresses by corrupting Internet routing tables maintained using the Border Gateway Protocol."
 [bumbaclaat]: https://en.wiktionary.org/wiki/bumbaclaat "A Jamaican Patois derogatory intensifier, originally referring to a menstrual cloth or toilet paper."
 [ci]: https://en.wikipedia.org/wiki/Continuous_integration "Continuous Integration, the practice of merging all developers' working copies to a shared mainline several times a day."
 [cloud-act]: https://en.wikipedia.org/wiki/CLOUD_Act "Clarifying Lawful Overseas Use of Data Act, a US federal law that allows law enforcement to compel US-based tech companies to provide requested data regardless of where it is stored."
 [cots]: https://en.wikipedia.org/wiki/Commercial_off-the-shelf "Commercial off-the-shelf, products that are packaged solutions which are then adapted to satisfy the needs of the purchasing organization."
 [cse]: https://en.wikipedia.org/wiki/Communications_Security_Establishment "Communications Security Establishment, the government of Canada's national cryptologic agency."
 [digest]: https://en.wikipedia.org/wiki/Cryptographic_hash_function "A short, fixed-length string produced by a cryptographic hash function that uniquely identifies a larger piece of data."
-[dns manipulation]: https://en.wikipedia.org/wiki/DNS_spoofing "A form of computer security hacking in which corrupt Domain Name System data is introduced into the DNS resolver's cache, causing the name server to return an incorrect result record."
 [dns]: https://en.wikipedia.org/wiki/Domain_Name_System "Domain Name System, the hierarchical and decentralized naming system used to identify computers reachable through the Internet."
+[dns manipulation]: https://en.wikipedia.org/wiki/DNS_spoofing "A form of computer security hacking in which corrupt Domain Name System data is introduced into the DNS resolver's cache, causing the name server to return an incorrect result record."
 [domain name resolution]: https://en.wikipedia.org/wiki/Name_resolution_(computer_networks) "The process of translating a human-readable domain name into an IP address."
 [fisa-702]: https://en.wikipedia.org/wiki/Foreign_Intelligence_Surveillance_Act_of_1978_Amendments_Act_of_2008#Section_702 "Section 702 of FISA allows the US government to conduct targeted surveillance of foreign persons located outside the US, compelling service providers to assist."
 [five eyes]: https://en.wikipedia.org/wiki/Five_Eyes "An intelligence alliance comprising Australia, Canada, New Zealand, the United Kingdom, and the United States."
