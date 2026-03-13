@@ -66,13 +66,13 @@ Authority arises not from institution or popularity but from understanding.
 
 ### In the Name of the Lion of Judah
 
-Within Rastafari tradition **Haile Selassie I**, Emperor of Ethiopia, is honored
+Within [Rastafari] tradition **[Haile Selassie I]**, Emperor of Ethiopia, is honored
 as: **King of Kings, Lord of Lords, Conquering Lion of the Tribe of Judah**
 
 The Lion of Judah symbolizes rightful authority exercised in protection of the
 people.
 
-Babylon represents authority that serves itself.
+[Babylon] represents authority that serves itself.
 
 Systems that serve **Humanz** stand opposed to Babylon.
 
@@ -211,7 +211,7 @@ When systems drift from this purpose they become **Babylon**.
 
 ### Junglist Souljah
 
-Jungle is pressure: chopped drums, heavy bass, signal in the noise.
+[Jungle] is pressure: chopped drums, heavy bass, signal in the noise.
 
 The title **Junglist Souljah** signifies commitment to:
 
@@ -306,7 +306,7 @@ authority while drifting away from the well-being of the people it governs.
 
 In biblical texts, Babylon symbolized empire detached from moral responsibility.
 
-The term was later adopted in **Rastafari** reasoning to describe oppressive
+The term was later adopted in **[Rastafari]** reasoning to describe oppressive
 systems of political and economic domination.
 
 Babylon therefore does not describe a single government.
@@ -467,7 +467,7 @@ Government is Babylon.
 
 It monopolizes force and claims legitimacy over the territory it controls.
 
-It turns Humanz into subjects through ID, tax, and surveillance.
+It turns Humanz into [subjects] through ID, tax, and surveillance.
 
 It serves itself.
 
@@ -530,9 +530,8 @@ This is Babylon.
 #### USA
 
 The global internet suffers from acute jurisdictional centralization: US-based
-[ICANN] controls domain name resolution and root [DNS]; the majority of root
-certificate authorities are also US-based; [BGP] routing registries are
-US-operated; and every major hyperscaler is either US-incorporated or subject to
+[ICANN] controls [domain name resolution] and root [DNS]; the majority of [root certificate authorities] are also US-based; [BGP] routing registries are
+US-operated; and every major [hyperscaler] is either US-incorporated or subject to
 US jurisdiction.
 
 This is not merely a legal posture - it is the physical and organizational
@@ -555,7 +554,7 @@ entirely to the domestic political climate of a single sovereign nation.
 > *"Sovereign Cloud" is a bullshit marketing term*: Providers claiming
 > jurisdictional isolation remain US-operated entities under US law. An AWS EU
 > Region is still Amazon. An Azure Government cloud is still Microsoft.
-> Jurisdiction follows the operator, not the data center. CI platforms
+> Jurisdiction follows the operator, not the data center. [CI] platforms
 > headquartered in the US therefore inherit the same exposure regardless of
 > where their runners execute.
 >
@@ -564,21 +563,21 @@ entirely to the domestic political climate of a single sovereign nation.
 
 A relevant EU counter-trend is the **Gaia-X Level 3 initiative** for stronger
 European operational sovereignty and assurance baselines; treat it as useful
-procurement signal, not a cryptographic substitute for independent quorum
+procurement signal, not a cryptographic substitute for independent [quorum]
 builders and key custody controls.
 
-A quorum composed entirely of US-headquartered CI providers is a single failure
-domain. Practically, a meaningful quorum requires that at least one quorum
+A [quorum] composed entirely of US-headquartered [CI] providers is a single failure
+domain. Practically, a meaningful [quorum] requires that at least one [quorum]
 builder be:
 
 1. Hosted on hardware controlled by an organization incorporated outside of the
    US.
-1. Operated in a jurisdiction with no mutual legal assistance treaty (MLAT) with
+1. Operated in a jurisdiction with no mutual legal assistance treaty ([MLAT]) with
    the US, or with significant friction in its execution.
 
-Legal compulsion to *attest a specific digest* - a builder operator required
+Legal compulsion to *attest a specific [digest]* - a builder operator required
 under gag order to submit a false result - is not addressed by the cryptographic
-design. Quorum limits the damage: an adversary must coerce N independent
+design. [Quorum][quorum] limits the damage: an adversary must coerce N independent
 operators simultaneously, across independent jurisdictions.
 
 ##### Extra-legal
@@ -587,30 +586,30 @@ Legal process is the slow path. NSA has other options.
 
 ###### Five Eyes
 
-Tphe UKUSA agreement extends NSA collection to GCHQ (UK), CSE (Canada), ASD
-(Australia), and GCSB (New Zealand). A builder in any Five Eyes jurisdiction is
+Tphe UKUSA agreement extends [NSA] collection to [GCHQ] (UK), [CSE] (Canada), [ASD]
+(Australia), and [GCSB] (New Zealand). A builder in any Five Eyes jurisdiction is
 not meaningfully separate from a US builder.
 
 ###### Active network attack
 
-QUANTUM INSERT allows injection of malicious content into unencrypted or
-MITM-able traffic. BGP hijacking has been used to redirect traffic through
-collection points. DNS manipulation is within documented capability.
+[QUANTUM INSERT] allows injection of malicious content into unencrypted or
+[MITM]-able traffic. [BGP hijacking] has been used to redirect traffic through
+collection points. [DNS manipulation] is within documented capability.
 
 ###### PRISM
 
-Builder keys stored in CI secret stores on US-provider infrastructure are
-accessible via PRISM.
+Builder keys stored in [CI] secret stores on US-provider infrastructure are
+accessible via [PRISM].
 
 ###### Hardware interdiction
 
-TAO's ANT catalog documents implants for network equipment, hard drives, and
+[TAO]'s ANT catalog documents implants for network equipment, hard drives, and
 server hardware. Supply chains routed through US logistics are interdiction
 targets.
 
 > [!NOTE]
 >
-> Purely non-US COTS hardware is a practical impossibility; the mitigation
+> Purely non-US [COTS] hardware is a practical impossibility; the mitigation
 > relies on N independent stacks so an implant must hit multiple targeted supply
 > chains simultaneously.
 
@@ -618,28 +617,28 @@ targets.
 
 China's National Intelligence Law (2017) compels any Chinese entity - including
 Alibaba Cloud - to cooperate with intelligence services on demand and without
-disclosure. A quorum that includes Alibaba Cloud or any runner operated by a
+disclosure. A [quorum] that includes Alibaba Cloud or any runner operated by a
 Chinese-headquartered entity is not legally independent.
 
-PLA Unit 61398 and MSS-linked groups (APT10, APT41) have demonstrated sustained
+[PLA Unit 61398] and [MSS]-linked groups ([APT10], [APT41]) have demonstrated sustained
 supply-chain targeting, including software-update hijacking and build-server
 compromise. Zero raises the cost: simultaneous compromise of N independent
 builder networks, across independent jurisdictions, is required to forge a
-quorum.
+[quorum].
 
 #### Russia
 
-SUNBURST (SolarWinds) is the canonical build-pipeline attack: GRU / SVR
+[SUNBURST] (SolarWinds) is the canonical build-pipeline attack: [GRU] / [SVR]
 operators compromised the SolarWinds Orion build system and inserted a backdoor
 that was signed with the legitimate code-signing key.
 
-A N-of-M builder quorum would not have prevented a single-builder build
+A [N-of-M] builder [quorum] would not have prevented a single-builder build
 compromise - but would have caught it: independent builders would attest a
-*different* digest so breaking quorum.
+*different* [digest] so breaking [quorum].
 
-SORM requires Russian ISPs to provide FSB with real-time access to all traffic.
+[SORM] requires Russian ISPs to provide [FSB] with real-time access to all traffic.
 Builders in Russia or on Russian cloud infrastructure are subject to passive
-interception regardless of TLS.
+interception regardless of [TLS].
 
 ### Babylon Shall Fall
 
@@ -663,6 +662,43 @@ interception regardless of TLS.
 
 ---
 
-[BGP]: BGP (Border Gateway Protocol) is the digital "roadmap" or postal system
-of the internet that determines the most efficient path for data packets to
-travel between different autonomous networks (AS).
+[BGP]: https://en.wikipedia.org/wiki/Border_Gateway_Protocol "BGP (Border Gateway Protocol) is the digital 'roadmap' or postal system of the internet that determines the most efficient path for data packets to travel between different autonomous networks (AS)."
+[ICANN]: https://en.wikipedia.org/wiki/ICANN "Internet Corporation for Assigned Names and Numbers, responsible for coordinating the maintenance and procedures of several databases related to the namespaces and numerical spaces of the Internet."
+[DNS]: https://en.wikipedia.org/wiki/Domain_Name_System "Domain Name System, the hierarchical and decentralized naming system used to identify computers reachable through the Internet."
+[cloud-act]: https://en.wikipedia.org/wiki/CLOUD_Act "Clarifying Lawful Overseas Use of Data Act, a US federal law that allows law enforcement to compel US-based tech companies to provide requested data regardless of where it is stored."
+[fisa-702]: https://en.wikipedia.org/wiki/Foreign_Intelligence_Surveillance_Act_of_1978_Amendments_Act_of_2008#Section_702 "Section 702 of FISA allows the US government to conduct targeted surveillance of foreign persons located outside the US, compelling service providers to assist."
+[nsl]: https://en.wikipedia.org/wiki/National_security_letter "National Security Letter, an administrative subpoena issued by the US government to gather information for national security purposes without prior judge approval."
+[CI]: https://en.wikipedia.org/wiki/Continuous_integration "Continuous Integration, the practice of merging all developers' working copies to a shared mainline several times a day."
+[MLAT]: https://en.wikipedia.org/wiki/Mutual_legal_assistance_treaty "Mutual Legal Assistance Treaty, an agreement between two or more countries for the purpose of gathering and exchanging information in an effort to enforce public or criminal laws."
+[NSA]: https://en.wikipedia.org/wiki/National_Security_Agency "National Security Agency, a national-level intelligence agency of the United States Department of Defense."
+[GCHQ]: https://en.wikipedia.org/wiki/GCHQ "Government Communications Headquarters, an intelligence and security organization responsible for providing signals intelligence and information assurance to the UK government."
+[CSE]: https://en.wikipedia.org/wiki/Communications_Security_Establishment "Communications Security Establishment, the government of Canada's national cryptologic agency."
+[ASD]: https://en.wikipedia.org/wiki/Australian_Signals_Directorate "Australian Signals Directorate, an intelligence agency in the Australian Government."
+[GCSB]: https://en.wikipedia.org/wiki/Government_Communications_Security_Bureau "Government Communications Security Bureau, the public-service department of New Zealand charged with promoting New Zealand's national security."
+[QUANTUM INSERT]: https://en.wikipedia.org/wiki/Tailored_Access_Operations#QUANTUM_attacks "A method used by the NSA to redirect a target's web browser to a malicious server."
+[MITM]: https://en.wikipedia.org/wiki/Man-in-the-middle_attack "Man-in-the-middle attack, where the attacker secretly relays and possibly alters the communications between two parties."
+[PRISM]: https://en.wikipedia.org/wiki/PRISM_(surveillance_program) "A clandestine surveillance program under which the United States National Security Agency (NSA) collects internet communications from various US internet companies."
+[TAO]: https://en.wikipedia.org/wiki/Tailored_Access_Operations "Tailored Access Operations, a cyber-warfare intelligence-gathering unit of the National Security Agency."
+[COTS]: https://en.wikipedia.org/wiki/Commercial_off-the-shelf "Commercial off-the-shelf, products that are packaged solutions which are then adapted to satisfy the needs of the purchasing organization."
+[PLA Unit 61398]: https://en.wikipedia.org/wiki/PLA_Unit_61398 "A Chinese military hacker unit."
+[MSS]: https://en.wikipedia.org/wiki/Ministry_of_State_Security_(China) "Ministry of State Security, the civilian intelligence, security and secret police agency of the People's Republic of China."
+[APT10]: https://en.wikipedia.org/wiki/APT10 "A Chinese cyber espionage group."
+[APT41]: https://en.wikipedia.org/wiki/APT41 "A Chinese state-sponsored cyber threat group."
+[SUNBURST]: https://en.wikipedia.org/wiki/SolarWinds_hack "A supply chain attack that compromised the SolarWinds Orion software."
+[GRU]: https://en.wikipedia.org/wiki/GRU_(Russian_Federation) "Main Directorate of the General Staff of the Armed Forces of the Russian Federation."
+[SVR]: https://en.wikipedia.org/wiki/Foreign_Intelligence_Service_(Russia) "Foreign Intelligence Service of the Russian Federation."
+[SORM]: https://en.wikipedia.org/wiki/SORM "System for Operative Investigative Activities, the technical system for search and surveillance in Russia."
+[FSB]: https://en.wikipedia.org/wiki/Federal_Security_Service "Federal Security Service, the principal security agency of Russia."
+[TLS]: https://en.wikipedia.org/wiki/Transport_Layer_Security "Transport Layer Security, a cryptographic protocol designed to provide communications security over a computer network."
+[hyperscaler]: https://en.wikipedia.org/wiki/Hyperscale_computing "Large cloud service providers that can seamlessly provision and add compute, memory, networking, and storage resources to a given node or set of nodes."
+[Jungle]: https://en.wikipedia.org/wiki/Jungle_music "Jungle is a genre of electronic dance music that developed in the UK in the early 1990s, characterized by rapid breakbeats, heavy basslines, and reggae/dancehall influences."
+[Rastafari]: https://en.wikipedia.org/wiki/Rastafari "An Abrahamic new religious movement that developed in Jamaica in the 1930s."
+[Haile Selassie I]: https://en.wikipedia.org/wiki/Haile_Selassie "Emperor of Ethiopia from 1930 to 1974, revered as the returned messiah of the Bible in the Rastafari religion."
+[root certificate authorities]: https://en.wikipedia.org/wiki/Root_certificate "A public key certificate that identifies a root certificate authority, the top-most entity in a cryptographic trust hierarchy."
+[domain name resolution]: https://en.wikipedia.org/wiki/Name_resolution_(computer_networks) "The process of translating a human-readable domain name into an IP address."
+[BGP hijacking]: https://en.wikipedia.org/wiki/BGP_hijacking "The illegitimate takeover of groups of IP addresses by corrupting Internet routing tables maintained using the Border Gateway Protocol."
+[DNS manipulation]: https://en.wikipedia.org/wiki/DNS_spoofing "A form of computer security hacking in which corrupt Domain Name System data is introduced into the DNS resolver's cache, causing the name server to return an incorrect result record."
+[digest]: https://en.wikipedia.org/wiki/Cryptographic_hash_function "A short, fixed-length string produced by a cryptographic hash function that uniquely identifies a larger piece of data."
+[N-of-M]: https://en.wikipedia.org/wiki/Secret_sharing "A secret sharing scheme where a secret is divided into M parts, and any N parts are sufficient to reconstruct the original secret or achieve quorum."
+[quorum]: https://en.wikipedia.org/wiki/Quorum_(distributed_computing) "The minimum number of votes that a distributed transaction has to obtain in order to be allowed to perform an operation in a distributed system."
+[subjects]: https://github.com/roundtable-love/machine/blob/master/machine.md#524-subject "The Subject node is the default human configuration. They possess the hardware and operate inside the Babylonian Black Box — a system engineered to conceal its own mechanics."
