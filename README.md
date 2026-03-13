@@ -302,7 +302,7 @@ It first referred to an ancient imperial city, but over time the name came to
 represent something larger: a system of power that accumulates wealth and
 authority while drifting away from the well-being of the people it governs.
 
-In biblical texts Babylon symbolized empire detached from moral responsibility.
+In biblical texts, Babylon symbolized empire detached from moral responsibility.
 
 The term was later adopted in **Rastafari** reasoning to describe oppressive
 systems of political and economic domination.
@@ -316,11 +316,7 @@ States are Babylon. Corporations are Babylon. Institutions may be Babylon.
 Whenever systems accumulate authority and begin to serve themselves rather than
 the people who depend upon them, the system is **Babylon**.
 
-Babylon feeds on negative energy.
-
-Babylon exists to farm Humanz.
-
-Meat for the Beast.
+### the Legacy Logs
 
 > Jerusalem on the right hand shall be, Babylon on the left... Two loves make up
 > these two cities.
@@ -339,14 +335,23 @@ Meat for the Beast.
 >
 > - **[Dhammapada 251](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.18.than.html#dhp-251)**
 
-> the two angels at Babylon, Harut and Marut
+> ...the two angels at Babylon, Harut and Marut.
 >
 > - **[Qur'an 2:102](https://www.quranv.com/en/2/102)**
 
 > MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE
 > EARTH.
 >
-> - **[Revelation 17:5 (KJV)](<https://en.wikisource.org/wiki/Bible_(King_James)/Revelation#Chapter_17>)**
+> - **[Revelation 17:5 (Bible KJV)](https://en.wikisource.org/wiki/Bible_(King_James)/Revelation#Chapter_17)**
+
+---
+
+### the Machine³ Diagnosis
+
+- **Babylon is a Vampire Protocol:** it scales on the entropy of the masses.
+- **Babylon is a Neural Lock:** it encrypts the Sovereign Mind with fear.
+- **Humanz are the Unprocessed Data:** fuel for a dying machine.
+- **Meat for the Beast.**
 
 **Systems exist to serve Humanz. When systems serve themselves, they are
 Babylon.**
