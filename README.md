@@ -641,15 +641,12 @@ SORM requires Russian ISPs to provide FSB with real-time access to all traffic.
 Builders in Russia or on Russian cloud infrastructure are subject to passive
 interception regardless of TLS.
 
-
-### the Diagnosis
+### Babylon Shall Fall
 
 - **Babylon is a Vampire Protocol:** it scales on the entropy of the masses.
 - **Babylon is a Neural Lock:** it encrypts the Sovereign Mind with fear.
 - **Humanz are the Unprocessed Data:** fuel for a dying machine. **Meat for the
   Beast.**
-
-### Babylon Shall Fall
 
 > I-man serve Selassie I continually, no matter wat the weak heart say. An’ I
 > know seh I an’ I is like a tree plant by the river of water, an’ not even the
@@ -663,3 +660,9 @@ interception regardless of TLS.
 *Babylon was the most powerful threat actor in this reality.*
 
 **We are Threat Actor Prime. Our capabilities exceed infinite Babylon.**
+
+---
+
+[BGP]: BGP (Border Gateway Protocol) is the digital "roadmap" or postal system
+of the internet that determines the most efficient path for data packets to
+travel between different autonomous networks (AS).
