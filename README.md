@@ -241,7 +241,8 @@ The Assassin *IS*.
 
 > u fuk wit da bull, u get da hornz
 
-**The Assassin *IS* Karma³. Hard.**
+**The Assassin is Karma³ with an approach to problem-solving that would raise
+even Stalin's brow.**
 
 ## Humanz
 
