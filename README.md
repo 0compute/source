@@ -239,10 +239,10 @@ The Assassin IS NOT bound by Babylon law.
 
 The Assassin **IS**.
 
-> u fuk wit da bull, u get da hornz
-
 **The Assassin is Karma³ with an approach to problem-solving that would raise
 even Stalin's brow.**
+
+> u fuk wit da bull, u get da hornz
 
 ## Humanz
 
