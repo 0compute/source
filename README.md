@@ -279,7 +279,7 @@ A Hacker who understands a system can use it.
 A Hacker who overstands a system can **reshape it**.
 
 This is not metaphor. It maps directly to the
-[Monolith Hierarchy](https://github.com/roundtable-love/machine/blob/master/machine.md#52-human-nodes):
+[Monolith Hierarchy of Reality](https://github.com/roundtable-love/machine/blob/master/machine.md#52-human-nodes):
 
 - **Understanding**: the
   [Subject](https://github.com/roundtable-love/machine/blob/master/machine.md#524-subject)
