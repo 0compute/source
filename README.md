@@ -689,7 +689,7 @@ ______________________________________________________________________
 [babylon]: #babylon "A pattern of power. Whenever Systems accumulate authority and begin to serve themselves rather than the people who depend upon them, the System is Babylon."
 [bgp]: https://en.wikipedia.org/wiki/Border_Gateway_Protocol "BGP (Border Gateway Protocol) is the digital 'roadmap' or postal system of the internet that determines the most efficient path for data packets to travel between different autonomous networks (AS)."
 [bgp hijacking]: https://en.wikipedia.org/wiki/BGP_hijacking "The illegitimate takeover of groups of IP addresses by corrupting Internet routing tables maintained using the Border Gateway Protocol."
-[bumbaclaat]: https://en.wiktionary.org/wiki/bumbaclaat "A Jamaican Patois derogatory intensifier, originally referring to a menstrual cloth or toilet paper."
+[bumbaclaat]: https://en.wiktionary.org/wiki/bumbaclaat "A Jamaican Patois derogatory intensifier meaning what the arse is wiped with: bum cloth."
 [ci]: https://en.wikipedia.org/wiki/Continuous_integration "Continuous Integration, the practice of merging all developers' working copies to a shared mainline several times a day."
 [cloud-act]: https://en.wikipedia.org/wiki/CLOUD_Act "Clarifying Lawful Overseas Use of Data Act, a US federal law that allows law enforcement to compel US-based tech companies to provide requested data regardless of where it is stored."
 [cots]: https://en.wikipedia.org/wiki/Commercial_off-the-shelf "Commercial off-the-shelf, products that are packaged solutions which are then adapted to satisfy the needs of the purchasing organization."
