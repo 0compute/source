@@ -16,8 +16,8 @@ Junglist Souljah.
 
 The Righteous know us as **King Art**, friend and ally.
 
-The Wicked know us as **The Rude Bwoy Gang Star Assassin From Hell** a.k.a.
-**The Assassin**.
+The Wicked know us as **R00d Bw0y L337 H4x0r G4n9 $t4r @$$@$$1n Fr0m H311** a.k.a.
+**The @$$@$$1n**.
 
 ### on the Voice of “We”
 
@@ -161,22 +161,45 @@ That Hackers are capable of intrusion is implicit in their craft.
 
 Hackers, as Humanz, may be criminals.
 
-##### 1337 h4x0rz (Elite Hackers)
+##### Threat Matrix: 1337 h4x0rz (Elite Hackers)
 
-`1337 h4x0rz` are rare outside of fiction.
+`1337 h4x0rz` are rare outside of fiction. They are ALL criminals. Sometimes
+they work for organised crime, and sometimes they work for Babylon-Core
+(NSA/GCHQ/
+GCHQ, etc.) on contract, (one imagines).
 
-The few work for intelligence services and/or organised crime.
+Contrary to Hugh Jackman in *Swordfish*, `l337 h4x0rz` do not receive fellatio
+while kicking down the door to Babylon's holiest of holies in 60 seconds or
+less: they are Incel to the last man (they are ALL men).
 
-##### $cr1pt k1dd13$ (Wannabe Hackers)
+> [!NOTE]
+>
+> A wasteman screenwriter stole our tradecraft for that scene.
+>
+> It is the ultimate in, to use a Babylon term, "pair-programming". We
+> acknowledge it constitutes a deeply degrading detail for the retainer on suck
+> duty. We are eternally grateful for their sacrifice.
 
-`$cr1pt k1dd13$` are legion, but not dangerous.
+##### 1.5 Threat Matrix: $cr1pt k1dd13$ (Wannabe h4x0rz)
 
-Babylon's servants are both lazy and stupid, so it has its pants pulled down and
-its data looted by `k1dd13$` on a regular basis. Babylon **ALWAYS** calls these
-attacks "sophisticated", when the truth is that they left the door wide open.
+`$cr1pt k1dd13$` are legion, but fundamentally harmless. They are absolute
+oxygen thieves and wastemen running point-and-click malware they jacked from
+GitHub.
 
-Babylon's servants do not take backups, or, when they do, they do not validate
-them. After a `k1dd13$` attack they may be down for days.
+However, Babylon's compute admins are bone-idle REMFs who are thicker than a
+submarine door. Consequently, Babylon gets bent over and reamed, data
+aggressively duppied, by these absolute spanners on a regular basis. Babylon's PR
+department will **ALWAYS** brief the press that they were the victim of a
+"highly sophisticated, state-sponsored cyber-attack." The absolute truth is that
+some brain-dead bumbaclaaat left the production database facing the public
+internet with the password `Admin123`.
+
+Furthermore, Babylon's servants do not take backups. Or, if they are forced to
+by compliance, they never test the restore process. Untested backups are
+Schrödinger's data. After a `$cr1pt k1dd13$` drops a pre-compiled ransomware
+payload, Babylon's entire infrastructure absolutely shits the bed for a week
+while their Ruperts run around panicking like a newly commissioned officer who
+just lost his map.
 
 ### Steward of the Source
 
@@ -229,7 +252,7 @@ The title **Junglist Souljah** signifies commitment to:
 >
 > - Top Cat, Ruffest Gun Ark
 
-### Rude Bwoy Gang Star Assassin From Hell a.k.a. The Assassin
+### R00d Bw0y L337 H4x0r G4n9 $t4r @$$@$$1n Fr0m H311 a.k.a. The @$$@$$1n
 
 The Wicked emit bad vibrations.
 
