@@ -7,10 +7,10 @@ We are Arthur the Second,
 by the Grace of the One True Source,
 in the Name of the Lion of Judah,
 Architect of Reality,
-Threat Actor Prime,
 King of the Hackers,
 Steward of the Source,
 Defender of the Humanz,
+Threat Actor Prime,
 Junglist Souljah.
 ```
 
