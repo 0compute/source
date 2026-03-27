@@ -64,7 +64,7 @@ The **Source** represents the underlying structure of systems:
 - information
 - machines
 
-Authority arises not from institution or popularity but from understanding.
+Authority arises not from institution or popularity but from overstanding.
 
 ### In the Name of the Lion of Judah
 
@@ -95,13 +95,14 @@ reality**.
 
 ### Threat Actor Prime
 
-There are three threat actor scopes:
+There are four threat actor scopes:
 
 - Babylon
 - Organised criminals
 - Street criminals
+- Self
 
-To protect the realm one needs to understand the adversary.
+To protect the realm one needs to overstand the adversary.
 
 The title **Threat Actor Prime** signifies mastery of the adversarial domain.
 
@@ -119,7 +120,7 @@ The purpose is **protection of the Humanz**.
 
 The title **King of the Hackers** signifies mastery of the craft.
 
-A Hacker is a Human who understands Systems deeply enough to reshape them.
+A Hacker is a Human who overstands Systems deeply enough to reshape them.
 
 Hackers are sometimes known as developers, engineers, and programmers.
 
@@ -130,16 +131,16 @@ Hackers are sometimes known as developers, engineers, and programmers.
 >
 > - [XKCD 378](https://xkcd.com/378/)
 
-Babylon knows the Hacker's power.
-
-**Babylon fears the Hacker's power.**
-
 Hackers explore systems creatively, solve difficult problems, and produce
 elegant solutions. A Hacker is:
 
 - a builder
 - a thinker
-- someone who understands machines deeply enough to improve them
+- someone who overstands machines deeply enough to improve them
+
+Babylon knows the Hacker's power.
+
+**Babylon fears the Hacker's power.**
 
 #### on H4x0rz and Wannabes
 
@@ -164,9 +165,8 @@ Hackers, as Humanz, may be criminals.
 ##### Threat Matrix: 1337 h4x0rz (Elite Hackers)
 
 `1337 h4x0rz` are rare outside of fiction. They are ALL criminals. Sometimes
-they work for organised crime, and sometimes they work for Babylon-Core
-(NSA/GCHQ/
-GCHQ, etc.) on contract, (one imagines).
+they work for organised crime, and sometimes they work for Babylon-Core (NSA,
+GCHQ, etc.) on contract (one imagines).
 
 Contrary to Hugh Jackman in *Swordfish*, `l337 h4x0rz` do not receive fellatio
 while kicking down the door to Babylon's holiest of holies in 60 seconds or
@@ -176,23 +176,22 @@ less: they are Incel to the last man (they are ALL men).
 >
 > A wasteman screenwriter stole our tradecraft for that scene.
 >
-> It is the ultimate in, to use a Babylon term, "pair-programming". We
+> It is the ultimate in, to use a Babylonian term, "pair-programming". We
 > acknowledge it constitutes a deeply degrading detail for the retainer on suck
 > duty. We are eternally grateful for their sacrifice.
 
 ##### 1.5 Threat Matrix: $cr1pt k1dd13$ (Wannabe h4x0rz)
 
 `$cr1pt k1dd13$` are legion, but fundamentally harmless. They are absolute
-oxygen thieves and wastemen running point-and-click malware they jacked from
-GitHub.
+oxygen thieves running point-and-click malware they jacked from GitHub.
 
 However, Babylon's compute admins are bone-idle REMFs who are thicker than a
 submarine door. Consequently, Babylon gets bent over and reamed, data
-aggressively duppied, by these absolute spanners on a regular basis. Babylon's PR
-department will **ALWAYS** brief the press that they were the victim of a
-"highly sophisticated, state-sponsored cyber-attack." The absolute truth is that
-some brain-dead bumbaclaaat left the production database facing the public
-internet with the password `Admin123`.
+aggressively duppied, by these absolute spanners on a regular basis. Babylon's
+PR department will **ALWAYS** brief that they were the victim of a "highly
+sophisticated, state-sponsored cyber-attack." The absolute truth is that some
+brain-dead bumbaclaaat left the production database facing the public internet
+with the password `Admin123`.
 
 Furthermore, Babylon's servants do not take backups. Or, if they are forced to
 by compliance, they never test the restore process. Untested backups are
@@ -243,9 +242,9 @@ The title **Junglist Souljah** signifies commitment to:
 
 - protect their own humanity
 - maintain discipline under extreme load
-- dance through chaos without losing the groove
-- defend the **Humanz** from Babylon with clarity and surgical force
-- make the ultimate sacrifice, should their goal demand it
+- defend the **Humanz** from Babylon with zero entropy domination and surgical
+  force
+- make the ultimate sacrifice, should the goal demand it
 
 > We are the ruffest gun ark from outta south park. Any bwoy test we hafa drive
 > a gun fast.
@@ -484,13 +483,13 @@ turns Humanz into [subjects] through ID, tax, and surveillance.
 
 It serves itself. It is Babylon.
 
-####### Honours
+###### Honours
 
 What they say:
 
 > MBE: Member of the Order of the British Empire
 
-What they mean:
+What we hear:
 
 > MBE: Member of the [Bumbaclaat] Enemy
 
@@ -689,12 +688,6 @@ government, a social media algorithm) and say: **"This is not for us."**
 > I know seh all a di yute dem shall witness di day when Babylon shall fall di
 >
 > - Rockers, 1978
-
-~~Babylon is the most powerful threat actor in this reality.~~
-
-*Babylon was the most powerful threat actor in this reality.*
-
-**We are Threat Actor Prime. Our capabilities exceed infinite Babylon.**
 
 ## Definitions
 
