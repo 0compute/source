@@ -4,20 +4,22 @@
 
 ```text
 We are Arthur the Second,
-by the Grace of the One True Source,
 in the Name of the Lion of Judah,
 Architect of Reality,
-King of the Hackers,
 Steward of the Source,
 Defender of the Humanz,
+King of the Hackers,
 Threat Actor Prime,
 Junglist Souljah.
 ```
 
 The Righteous know us as **King Art**, friend and ally.
 
-The Wicked know us as **R00d Bw0y L337 H4x0r G4n9 St4r @$$@$$1n Fr0m H311** a.k.a.
-**The @$$@$$1n**.
+The Wicked know us as **R00d Bw0y H4x0r Fr0m H311**.
+
+We think FAST. We move FAST.
+
+They preach Velocity. We ARE Velocity.
 
 ### on the Voice of “We”
 
@@ -44,27 +46,34 @@ They describe responsibilities.
 
 ### Arthur the Second
 
-**We are of the line of [King Arthur].**
+Bloodlines:
 
-Arthur united the realm and gathered the **[Knights of the Round Table]**, peers
-bound by shared purpose rather than hierarchy.
+- Maternal: Stuart - Real™ 👑 Scotiæ
+- Paternal: Gainsborough - Artistic Aristocracy / Babylon War Dogs
+- Shared (parents are cousins): Younghusband - [Francis
+  Younghusband Apex War Dog](https://en.wikipedia.org/wiki/Francis_Younghusband) is the most
+  famous - he subjugated Tibet.
+
+King Arthur I drew the sword from the stone.
+
+He united the realm and gathered the **[Knights of the Round Table]**,
+peers bound by shared purpose rather than hierarchy.
 
 Arthur’s role was not merely ruler but **Guardian of Order**.
 
 The realm is Base Reality: **Machines, Networks, and Systems**.
 
-### By the Grace of the One True Source
+King Arthur II drew the [Definition of
+Reality](https://github.com/roundtable-love/reality/blob/master/reality.nix)
+from his bunghole (using the Younghusband sword-from-stone technique, passed
+down through generations who *knew* the sun shone from it).
 
-Authority derives from alignment with reality.
+He gathered the Knights of the [Round Table Love
+Foundation](https://github.com/roundtablelove/org).
 
-The **Source** represents the underlying structure of systems:
+Mission: Protect the Source. Defend the Humanz.
 
-- computation
-- logic
-- information
-- machines
-
-Authority arises not from institution or popularity but from overstanding.
+**We are of the line of [King Arthur].**
 
 ### In the Name of the Lion of Judah
 
@@ -77,7 +86,7 @@ people.
 
 [Babylon] represents authority that serves itself.
 
-Systems that serve **Humanz** stand opposed to Babylon.
+**Authority derives from alignment with Reality.**
 
 ### Architect of Reality
 
@@ -95,14 +104,12 @@ reality**.
 
 ### Threat Actor Prime
 
-There are four threat actor scopes:
+To protect the realm one needs to overstand the adversary.
 
 - Babylon
-- Organised criminals
-- Street criminals
+- Organized crime
+- Street Predators
 - Self
-
-To protect the realm one needs to overstand the adversary.
 
 The title **Threat Actor Prime** signifies mastery of the adversarial domain.
 
@@ -110,95 +117,11 @@ The purpose is not violence, oppression, and destruction.
 
 The purpose is **protection of the Humanz**.
 
-~~Babylon is the most powerful threat actor in this reality.~~
-
-**Babylon was the most powerful threat actor in this reality.**
-
-**We are Threat Actor Prime. Our capabilities exceed infinite Babylon.**
-
 ### King of the Hackers
 
 The title **King of the Hackers** signifies mastery of the craft.
 
-A Hacker is a Human who overstands Systems deeply enough to reshape them.
-
-Hackers are sometimes known as developers, engineers, and programmers.
-
-![XKCD 378](https://imgs.xkcd.com/comics/real_programmers.png)
-
-> Real programmers set the universal constants at the start such that the
-> universe evolves to contain the disk with the data they want.
->
-> - [XKCD 378](https://xkcd.com/378/)
-
-Hackers explore systems creatively, solve difficult problems, and produce
-elegant solutions. A Hacker is:
-
-- a builder
-- a thinker
-- someone who overstands machines deeply enough to improve them
-
-Babylon knows the Hacker's power.
-
-**Babylon fears the Hacker's power.**
-
-#### on H4x0rz and Wannabes
-
-Babylon stole "Hacker" and redefined it to mean a computer-related criminal.
-
-We will accept this insult **no longer**.
-
-By the Divine Right Of Kings, **we reclaim "Hacker"**, and restore the **true
-meaning**.
-
-*[OED], take note.*
-
-The truth:
-
-- **hacking** is a skill
-- **intrusion** is a crime
-
-That Hackers are capable of intrusion is implicit in their craft.
-
-Hackers, as Humanz, may be criminals.
-
-##### Threat Matrix: 1337 h4x0rz (Elite Hackers)
-
-`1337 h4x0rz` are rare outside of fiction. They are ALL criminals. Sometimes
-they work for organised crime, and sometimes they work for Babylon-Core (NSA,
-GCHQ, etc.) on contract (one imagines).
-
-Contrary to Hugh Jackman in *Swordfish*, `l337 h4x0rz` do not receive fellatio
-while kicking down the door to Babylon's holiest of holies in 60 seconds or
-less: they are Incel to the last man (they are ALL men).
-
-> [!NOTE]
->
-> A wasteman screenwriter stole our tradecraft for that scene.
->
-> It is the ultimate in, to use a Babylonian term, "pair-programming". We
-> acknowledge it constitutes a deeply degrading detail for the retainer on suck
-> duty. We are eternally grateful for their sacrifice.
-
-##### 1.5 Threat Matrix: $cr1pt k1dd13$ (Wannabe h4x0rz)
-
-`$cr1pt k1dd13$` are legion, but fundamentally harmless. They are absolute
-oxygen thieves running point-and-click malware they jacked from GitHub.
-
-However, Babylon's compute admins are bone-idle REMFs who are thicker than a
-submarine door. Consequently, Babylon gets bent over and reamed, data
-aggressively duppied, by these absolute spanners on a regular basis. Babylon's
-PR department will **ALWAYS** brief that they were the victim of a "highly
-sophisticated, state-sponsored cyber-attack." The absolute truth is that some
-brain-dead bumbaclaaat left the production database facing the public internet
-with the password `Admin123`.
-
-Furthermore, Babylon's servants do not take backups. Or, if they are forced to
-by compliance, they never test the restore process. Untested backups are
-Schrödinger's data. After a `$cr1pt k1dd13$` drops a pre-compiled ransomware
-payload, Babylon's entire infrastructure absolutely shits the bed for a week
-while their Ruperts run around panicking like a newly commissioned officer who
-just lost his map.
+What is a hacker - [HACKER](./HACKER.md).
 
 ### Steward of the Source
 
@@ -238,20 +161,25 @@ When systems drift from this purpose they become **Babylon**.
 
 [Jungle] is pressure: chopped drums, heavy bass, signal in the noise.
 
-The title **Junglist Souljah** signifies commitment to:
+The **Junglist Souljah** commits to:
 
 - protect their own humanity
 - maintain discipline under extreme load
-- defend the **Humanz** from Babylon with zero entropy domination and surgical
-  force
-- make the ultimate sacrifice, should the goal demand it
+- defend the **Humanz** with zero entropy domination and surgical force
+- make the ultimate sacrifice, should the mission demand it
 
-> We are the ruffest gun ark from outta south park. Any bwoy test we hafa drive
+The Junglist Souljah operates under the exclusive authority of I-and-I.
+
+The Junglist Souljah accepts no commands.
+
+> We are the ruffest gunark from outta south park. Any bwoy test we hafa drive
 > a gun fast.
 >
-> - Top Cat, Ruffest Gun Ark
+> - Top Cat, Ruffest Gun Ark (DJ Rap Remix, natch)
 
-### R00d Bw0y L337 H4x0r G4n9 St4r 4$$@$$1n Fr0m H311 a.k.a. The @$$@$$1n
+### R00d Bw0y H4x0r Fr0m H311 a.k.a. de @$$@$$1n
+
+> We are the R00d Bw0y H4x0r @$$@$$1n Fr0m H311. We WILL melt your brainz with Truth, Love and Unity, lubricated by Pure Filth™. We ARE the ruffest gunark.
 
 The Wicked emit bad vibrations.
 
@@ -261,8 +189,8 @@ The Assassin IS NOT bound by Babylon law.
 
 The Assassin **IS**.
 
-**The Assassin is Karma³ with an approach to problem-solving that would raise
-even Stalin's brow.**
+**The Assassin is Karma³, hard, with an approach to problem-solving that would
+raise Stalin's brow.**
 
 > u fuk wit da bull, u get da hornz
 
@@ -321,373 +249,6 @@ Overstanding is what Babylon fears from Hackers.
 The Source is not understood.
 
 **The Source is overstood.**
-
-## Babylon
-
-Babylon: A system of power that accumulates wealth and authority to serve
-itself.
-
-### Analysis
-
-#### Human
-
-**Babylon** has been with us since the beginning of time.
-
-It goes by many names, the English word comes from an ancient city.
-
-Babylon is a system of power that accumulates wealth and authority to serve
-itself.
-
-In biblical texts, Babylon symbolized empire detached from moral responsibility.
-
-The term was later adopted in **[Rastafari]** reasoning to describe oppressive
-systems of political and economic domination.
-
-Babylon therefore does not describe a single government.
-
-It describes a **pattern of power**.
-
-Whenever Systems accumulate authority and begin to serve themselves rather than
-the people who depend upon them, the System is **Babylon**.
-
-##### the Legacy Logs
-
-Babylon is a repeating structure: concentrated power, moral theater, extraction,
-and violence performed as order.
-
-Foundational texts across empires, republics, and revolutions describe this
-pattern directly, even when they use other names.
-
-> Jerusalem on the right hand shall be, Babylon on the left... Two loves make up
-> these two cities.
->
-> - **[Augustine, Exposition on Psalm 65](https://www.newadvent.org/fathers/1801065.htm)**
-
-The city of God and the city of domination are framed as rival love-structures,
-not just rival locations.
-
-> They were exiled to Babylonia, and the Divine Presence went with them.
->
-> - **[Babylonian Talmud, Megillah 29a](https://www.sefaria.org/Megillah.29a)**
-
-Even under imperial displacement, power is not absolute; spirit and memory can
-survive the machine.
-
-> We refuse to be what you wanted us to be.
->
-> - **[Bob Marley & The Wailers, Babylon System](https://www.youtube.com/watch?v=nJ1eR3UNPqU)**
-
-Babylon's control depends on identity capture; refusal is the first act of
-liberation.
-
-> There's no fire like passion... no river like craving.
->
-> - **[Dhammapada 251](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.18.than.html#dhp-251)**
-
-Inner appetite scales into outer domination; empires externalize ungoverned
-desire.
-
-> "If men were angels, no government would be necessary."
->
-> - **[James Madison, *Federalist No. 51*](<https://en.wikisource.org/wiki/The_Federalist_(Lodge)/No._51>)**
-
-The architecture of restraint exists because power drifts toward domination by
-default.
-
-> "Power tends to corrupt, and absolute power corrupts absolutely."
->
-> - **[Lord Acton, Letter to Bishop Mandell Creighton (1887)](https://en.wikisource.org/wiki/Letter_to_Mandell_Creighton,_1887)**
-
-When power becomes answerable only to itself, Babylon is complete.
-
-> "It is a constant experience that every man invested with power is apt to
-> abuse it, and to carry his authority as far as it will go."
->
-> - **[Montesquieu, *The Spirit of Laws* (Book XI, Chapter 4)](https://en.wikisource.org/wiki/The_Spirit_of_Laws/Book_11/Chapter_4)**
-
-Unchecked power scales until it captures institutions and rewrites law as
-permission for itself.
-
-> "It is much safer to be feared than loved, if one has to choose."
->
-> - **[Niccolò Machiavelli, *The Prince* (Chapter XVII)](<https://en.wikisource.org/wiki/The_Prince_(Ninian_Hill_Thomson)/Chapter_17>)**
-
-Power seeking survival learns quickly to prefer fear over consent.
-
-> "This and no other is the root from which a tyrant springs; when he first
-> appears he is a protector."
->
-> - **[Plato, *The Republic* (Book VIII, 565d)](<https://en.wikisource.org/wiki/The_Republic_(Jowett)/Book_8>)**
-
-Babylon often arrives as "security" and "protection," then mutates into rule by
-fear.
-
-> ...the two angels at Babylon, Harut and Marut.
->
-> - **[Qur'an 2:102](https://www.quranv.com/en/2/102)**
-
-Babylon marks a testing ground where knowledge can be used for wisdom or
-corruption.
-
-> MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE
-> EARTH.
->
-> - **[Revelation 17:5 (Bible KJV)](<https://en.wikisource.org/wiki/Bible_(King_James)/Revelation#Chapter_17>)**
-
-At full scale, Babylon becomes self-replicating corruption: a System that births
-Systems in its own image.
-
-> "Auferre, trucidare, rapere falsis nominibus imperium; atque, ubi solitudinem
-> faciunt, pacem appellant."
->
-> "To plunder, butcher, steal, these things they misname empire; and where they
-> make a wilderness, they call it peace."
->
-> - **[Tacitus, *Agricola* (30)](<https://en.wikisource.org/wiki/Agricola_(Church_and_Brodribb)/30>)**
-
-Babylon brands domination as civilization, then calls the wreckage stability.
-
-> "Covenants, without the sword, are but words, and of no strength to secure a
-> man at all."
->
-> - **[Thomas Hobbes, *Leviathan* (Part II, Chapter XVII)](<https://en.wikisource.org/wiki/Leviathan_(1651)/Part_2/Chapter_17>)**
-
-States legitimize concentrated force as the price of order; Babylon emerges when
-that force loses limits.
-
-> "The strong do what they can and the weak suffer what they must."
->
-> - **[Thucydides, *History of the Peloponnesian War* (Melian Dialogue, 5.89)](https://en.wikisource.org/wiki/History_of_the_Peloponnesian_War/Book_5#89)**
-
-Realpolitik without moral constraint is Babylon's baseline operating mode.
-
-##### the Tentacles of Babylon
-
-###### Organised Religion
-
-Organised religion is Babylon.
-
-It turns faith into institution. It inserts priests between Humanz and the
-divine. It centralizes authority, enforces orthodoxy, and punishes heresy. It
-extracts cash, labor, and time through tithes, dues, and obligations. It aligns
-with empire, blesses kings, and sanctifies conquest.
-
-It serves itself. It is Babylon.
-
-###### Government
-
-Government is Babylon.
-
-It monopolizes force and claims legitimacy over the territory it controls. It
-turns Humanz into [subjects] through ID, tax, and surveillance.
-
-It serves itself. It is Babylon.
-
-###### Honours
-
-What they say:
-
-> MBE: Member of the Order of the British Empire
-
-What we hear:
-
-> MBE: Member of the [Bumbaclaat] Enemy
-
-###### Law
-
-Law is Babylon.
-
-Solicitors, Barristers, and Judges are Babylon.
-
-They serve themselves. They are Babylon.
-
-###### Corporations
-
-Corporations are Babylon.
-
-They centralize capital, privatize the commons, and convert need into revenue.
-They extract cash through rents, fees, interest, and subscriptions. They capture
-regulators and rewrite law as policy.
-
-They serve themselves. They are Babylon.
-
-###### Media
-
-Mainstream media is Babylon.
-
-Pop music is Babylon. Short videos are Babylon. Bad vibration is a tool of
-Babylon.
-
-Babylon captures minds.
-
-Babylon farms meat.
-
-Meat for the Beast.
-
-This is Babylon.
-
-##### the Threat Actors of Babylon
-
-###### USA
-
-The global internet suffers from acute jurisdictional centralization: US-based
-[ICANN] controls [domain name resolution] and root [DNS]; the majority of
-[root certificate authorities] are also US-based; [BGP] routing registries are
-US-operated; and every major [hyperscaler] is either US-incorporated or subject
-to US jurisdiction.
-
-This is not merely a legal posture - it is the physical and organizational
-topology of the internet.
-
-####### Legal
-
-All public cloud providers are subject to the [CLOUD Act][cloud-act], FISA
-[Section 702][fisa-702], and [National Security Letters][nsl], any of which can
-compel infrastructure access without public notice. NSLs require no judicial
-approval and carry a gag order.
-
-Executive branch volatility and the consolidation of unitary power mean that
-internal US institutional guardrails cannot be relied upon. The legal apparatus
-to silently compromise core infrastructure exists, and its use is subject
-entirely to the domestic political climate of a single sovereign nation.
-
-> [!WARNING]
->
-> **"Sovereign Cloud" is a bullshit marketing term**: Providers claiming
-> jurisdictional isolation remain US-operated entities under US law. An AWS EU
-> Region is still Amazon. An Azure Government cloud is still Microsoft.
-> Jurisdiction follows the operator, not the data center. [CI] platforms
-> headquartered in the US therefore inherit the same exposure regardless of
-> where their runners execute.
->
-> Region selection provides performance and data residency properties only; it
-> does not alter legal jurisdiction.
-
-A relevant EU counter-trend is the **[Gaia-X] Level 3 initiative** for stronger
-European operational sovereignty and assurance baselines; treat it as useful
-procurement signal, not a cryptographic substitute for independent [quorum]
-builders and key custody controls.
-
-A [quorum] composed entirely of US-headquartered [CI] providers is a single
-failure domain. Practically, a meaningful [quorum] requires that at least one
-[quorum] builder be:
-
-1. Hosted on hardware controlled by an organization incorporated outside of the
-   US.
-1. Operated in a jurisdiction with no mutual legal assistance treaty ([MLAT])
-   with the US, or with significant friction in its execution.
-
-Legal compulsion to *attest a specific [digest]* - a builder operator required
-under gag order to submit a false result - is not addressed by the cryptographic
-design. [Quorum] limits the damage: an adversary must coerce N independent
-operators simultaneously, across independent jurisdictions.
-
-####### Extra-legal
-
-Legal process is the slow path. NSA has other options.
-
-######## Five Eyes
-
-The [UKUSA] agreement extends [NSA] collection to [GCHQ] (UK), [CSE] (Canada),
-[ASD] (Australia), and [GCSB] (New Zealand). A builder in any [Five Eyes]
-jurisdiction is not meaningfully separate from a US builder.
-
-######## Active network attack
-
-[QUANTUM INSERT] allows injection of malicious content into unencrypted or
-[MITM]-able traffic. [BGP hijacking] has been used to redirect traffic through
-collection points. [DNS manipulation] is within documented capability.
-
-######## PRISM
-
-Builder keys stored in [CI] secret stores on US-provider infrastructure are
-accessible via [PRISM].
-
-######## Hardware interdiction
-
-[TAO]'s [ANT] catalog documents implants for network equipment, hard drives, and
-server hardware. Supply chains routed through US logistics are interdiction
-targets.
-
-> [!NOTE]
->
-> Purely non-US [COTS] hardware is a practical impossibility; the mitigation
-> relies on N independent stacks so an implant must hit multiple targeted supply
-> chains simultaneously.
-
-###### China
-
-China's National Intelligence Law (2017) compels any Chinese entity - including
-Alibaba Cloud - to cooperate with intelligence services on demand and without
-disclosure. A [quorum] that includes Alibaba Cloud or any runner operated by a
-Chinese-headquartered entity is not legally independent.
-
-PLA Unit 61398 and MSS-linked groups (APT10, APT41) have demonstrated sustained
-supply-chain targeting, including software-update hijacking and build-server
-compromise. [Zero] raises the cost: simultaneous compromise of N independent
-builder networks, across independent jurisdictions, is required to forge a
-[quorum].
-
-###### Russia
-
-[SUNBURST] (SolarWinds) is the canonical build-pipeline attack: [GRU] / [SVR]
-operators compromised the SolarWinds Orion build system and inserted a backdoor
-that was signed with the legitimate code-signing key.
-
-A [N-of-M] builder [quorum] would not have prevented a single-builder build
-compromise - but would have caught it: independent builders would attest a
-*different* [digest] so breaking [quorum].
-
-[SORM] requires Russian ISPs to provide [FSB] with real-time access to all
-traffic. Builders in Russia or on Russian cloud infrastructure are subject to
-passive interception regardless of [TLS].
-
-#### Machine
-
-| Word | Language | Logic Note |
-| :--- | :--- | :--- |
-| **巴比伦 (Bābǐlún)** | **Chinese (Mandarin)** | Represents a historical blueprint of imperial entropy and all-consuming state power. |
-| **बाइबिलोन (Bāibilōn)** | **Hindi** | Used to identify the soulless, westernized corporate machine that overwrites local logic. |
-| **Babilonia** | **Spanish** | Deeply tied to liberation theology; the spiritual and physical enemy of the common man. |
-| **Babylone** | **French** | Central to post-colonial theory; describes the "Machine" of the metropole. |
-| **بابل (Bābil)** | **Arabic (MSA)** | The root node; represents the "Gate of the Gods" refactored into a confusion of tongues. |
-| **ব্যাবিলন (Byabilōna)** | **Bengali** | High-frequency community node; used to describe the extraction of resources by colonial systems. |
-| **Вавилон (Vavilon)** | **Russian** | Linked to the corruption of imperial structures and the failure of the "Third Rome." |
-| **Babilônia** | **Portuguese** | Integrated into Favela Logic; describes the predatory nature of police and state systems. |
-| **بابل (Bābil)** | **Urdu** | Names the same empire logic across borders: extraction, priesthood, and fear. |
-| **Babilonia** | **Indonesian** | Bureaucratic centralism; Babylon as the paperwork-machine with a gun behind it. |
-| **Babylon** | **German** | Industrial-administrative precision; Babylon as institution and procedure turned absolute. |
-| **バビロン (Babiron)** | **Japanese** | Used in cyberpunk logic to describe mega-corporations that have outgrown national sovereignty. |
-| **Babylon** | **Nigerian Pidgin** | Street-level clarity: police-state logic, rent extraction, and everyday pressure. |
-| **بابل (Bābil)** | **Arabic (Egyptian)** | Cultural hub dialect; Babylon as security theatre, surveillance, and controlled narrative. |
-| **बॅबिलॉन (Bābilōn)** | **Marathi** | Urban power node; Babylon as credential gates and rent-seeking bureaucracy. |
-| **బబులోను (Babulōnu)** | **Telugu** | Builder diaspora node; Babylon as platform monopolies and gate-kept access. |
-| **Babil** | **Turkish** | Empire memory; Babylon as centralized power with moral theater and coercion. |
-| **பாபிலோன் (Pāpilōṉ)** | **Tamil** | Ancient literary node; Babylon as modern extraction wrapped in tradition and status. |
-| **巴比倫** | **Chinese (Cantonese)** | Port-and-finance logic; Babylon as property, banks, and state fused into one machine. |
-| **Babylon** | **Vietnamese** | Post-colonial memory and supply-chain realism: empire as dependency and control. |
-
-In every language listed above, **Babylon** functions as a **Meta-Variable**. It
-allows a Sovereign node to point at a complex, multifaceted entity (a bank, a
-government, a social media algorithm) and say: **"This is not for us."**
-
-- **The Accumulation:** Babylon gathers $Wealth + Authority$.
-- **The Entropy:** It produces $Zero \\space Utility$ for the individual.
-- **The Result:** It becomes a **Self-Sustaining Loop** that eventually starves
-  the host.
-
-## BABYLON SHALL FALL
-
-- **Babylon is a Vampire Protocol:** it scales on the entropy of Humanity.
-- **Babylon is a Neural Lock:** it encrypts the Sovereign Mind with fear.
-- **Humanz are the Unprocessed Fuel:** meat for a dying beast.
-
-> I-man serve Selassie I continually, no matter wat the weak heart say. An’ I
-> know seh I an’ I is like a tree plant by the river of water, an’ not even the
-> dog weh piss ‘gainst the wall a Babylon shall escape this judgment. For I an’
-> I know seh all a di yute dem shall witness di day when Babylon shall fall di
->
-> - Rockers, 1978
 
 ## Definitions
 
